@@ -1,0 +1,3 @@
+# vue-c-websocket
+windows应用程序，获取本地摄像头通过websocket返回h264视频流给web端展示
+克隆代码下来运行CWebsocket.exe就可得获取视频流
