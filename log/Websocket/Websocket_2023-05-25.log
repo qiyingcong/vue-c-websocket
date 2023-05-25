@@ -1,0 +1,1066 @@
+2023-05-25 09:14:45 /*----------------------------InitInstance-WebsocketApp---------------------------*/ {CWebsocket.cpp(115)}
+2023-05-25 09:14:45 pMyWebsocketDlg - begin {CWebsocket.cpp(119)}
+2023-05-25 09:14:45 void CwebserverDlg::KMeansSegment()-begin {CWebsocketDlg.cpp(226)}
+2023-05-25 09:14:46 cert~开始 {CWebsocketDlg.cpp(845)}
+2023-05-25 09:14:55 client ID : [c=1,  hdl:59481672  ]open {CWebsocketDlg.cpp(280)}
+2023-05-25 09:14:55 open  1  hdl:59481672 {CWebsocketDlg.cpp(84)}
+2023-05-25 09:14:56 message {CWebsocketDlg.cpp(266)}
+2023-05-25 09:14:56 client ID : [c=1,  hdl:59481672  ]message {CWebsocketDlg.cpp(280)}
+2023-05-25 09:14:56 websocket-Client 入参数据:*********** {CWebsocketDlg.cpp(317)}
+2023-05-25 09:14:56 入参长度： 38 {CWebsocketDlg.cpp(321)}
+2023-05-25 09:14:56 {"interfaceId":"100002","command":"1"} {CWebsocketDlg.cpp(324)}
+2023-05-25 09:14:56 websocket-Client 入参数据:打印完成*********** {CWebsocketDlg.cpp(325)}
+2023-05-25 09:14:56 return CG:  {CWebsocketDlg.cpp(119)}
+2023-05-25 09:15:16 close~1 {CWebsocketDlg.cpp(273)}
+2023-05-25 09:15:16 close~2 {CWebsocketDlg.cpp(276)}
+2023-05-25 09:15:16 client ID : [c=0,  hdl:59481672  ]close {CWebsocketDlg.cpp(280)}
+2023-05-25 09:15:16 close  0  hdl:59481672 {CWebsocketDlg.cpp(95)}
+2023-05-25 09:15:16 client ID : [c=1,  hdl:79449360  ]open {CWebsocketDlg.cpp(280)}
+2023-05-25 09:15:16 open  1  hdl:79449360 {CWebsocketDlg.cpp(84)}
+2023-05-25 09:15:16 message {CWebsocketDlg.cpp(266)}
+2023-05-25 09:15:16 client ID : [c=1,  hdl:79449360  ]message {CWebsocketDlg.cpp(280)}
+2023-05-25 09:15:16 websocket-Client 入参数据:*********** {CWebsocketDlg.cpp(317)}
+2023-05-25 09:15:16 入参长度： 38 {CWebsocketDlg.cpp(321)}
+2023-05-25 09:15:16 {"interfaceId":"100002","command":"1"} {CWebsocketDlg.cpp(324)}
+2023-05-25 09:15:16 websocket-Client 入参数据:打印完成*********** {CWebsocketDlg.cpp(325)}
+2023-05-25 09:15:16 return CG:  {CWebsocketDlg.cpp(119)}
+2023-05-25 09:15:21 close~1 {CWebsocketDlg.cpp(273)}
+2023-05-25 09:15:21 close~2 {CWebsocketDlg.cpp(276)}
+2023-05-25 09:15:21 client ID : [c=0,  hdl:79449360  ]close {CWebsocketDlg.cpp(280)}
+2023-05-25 09:15:21 close  0  hdl:79449360 {CWebsocketDlg.cpp(95)}
+2023-05-25 09:15:21 client ID : [c=1,  hdl:80451760  ]open {CWebsocketDlg.cpp(280)}
+2023-05-25 09:15:21 open  1  hdl:80451760 {CWebsocketDlg.cpp(84)}
+2023-05-25 09:15:21 message {CWebsocketDlg.cpp(266)}
+2023-05-25 09:15:21 client ID : [c=1,  hdl:80451760  ]message {CWebsocketDlg.cpp(280)}
+2023-05-25 09:15:21 websocket-Client 入参数据:*********** {CWebsocketDlg.cpp(317)}
+2023-05-25 09:15:21 入参长度： 38 {CWebsocketDlg.cpp(321)}
+2023-05-25 09:15:21 {"interfaceId":"100002","command":"1"} {CWebsocketDlg.cpp(324)}
+2023-05-25 09:15:21 websocket-Client 入参数据:打印完成*********** {CWebsocketDlg.cpp(325)}
+2023-05-25 09:15:21 return CG:  {CWebsocketDlg.cpp(119)}
+2023-05-25 09:15:23 close~1 {CWebsocketDlg.cpp(273)}
+2023-05-25 09:15:23 close~2 {CWebsocketDlg.cpp(276)}
+2023-05-25 09:15:23 client ID : [c=0,  hdl:80451760  ]close {CWebsocketDlg.cpp(280)}
+2023-05-25 09:15:23 close  0  hdl:80451760 {CWebsocketDlg.cpp(95)}
+2023-05-25 09:15:23 client ID : [c=1,  hdl:124739576  ]open {CWebsocketDlg.cpp(280)}
+2023-05-25 09:15:23 open  1  hdl:124739576 {CWebsocketDlg.cpp(84)}
+2023-05-25 09:15:23 message {CWebsocketDlg.cpp(266)}
+2023-05-25 09:15:23 client ID : [c=1,  hdl:124739576  ]message {CWebsocketDlg.cpp(280)}
+2023-05-25 09:15:23 websocket-Client 入参数据:*********** {CWebsocketDlg.cpp(317)}
+2023-05-25 09:15:23 入参长度： 38 {CWebsocketDlg.cpp(321)}
+2023-05-25 09:15:23 {"interfaceId":"100002","command":"1"} {CWebsocketDlg.cpp(324)}
+2023-05-25 09:15:23 websocket-Client 入参数据:打印完成*********** {CWebsocketDlg.cpp(325)}
+2023-05-25 09:15:23 return CG:  {CWebsocketDlg.cpp(119)}
+2023-05-25 09:15:31 close~1 {CWebsocketDlg.cpp(273)}
+2023-05-25 09:15:31 close~2 {CWebsocketDlg.cpp(276)}
+2023-05-25 09:15:31 client ID : [c=0,  hdl:124739576  ]close {CWebsocketDlg.cpp(280)}
+2023-05-25 09:15:31 close  0  hdl:124739576 {CWebsocketDlg.cpp(95)}
+2023-05-25 09:15:38 client ID : [c=1,  hdl:124814104  ]open {CWebsocketDlg.cpp(280)}
+2023-05-25 09:15:38 open  1  hdl:124814104 {CWebsocketDlg.cpp(84)}
+2023-05-25 09:15:38 message {CWebsocketDlg.cpp(266)}
+2023-05-25 09:15:38 client ID : [c=1,  hdl:124814104  ]message {CWebsocketDlg.cpp(280)}
+2023-05-25 09:15:38 websocket-Client 入参数据:*********** {CWebsocketDlg.cpp(317)}
+2023-05-25 09:15:38 入参长度： 38 {CWebsocketDlg.cpp(321)}
+2023-05-25 09:15:38 {"interfaceId":"100002","command":"1"} {CWebsocketDlg.cpp(324)}
+2023-05-25 09:15:38 websocket-Client 入参数据:打印完成*********** {CWebsocketDlg.cpp(325)}
+2023-05-25 09:15:38 return CG:  {CWebsocketDlg.cpp(119)}
+2023-05-25 09:27:40 close~1 {CWebsocketDlg.cpp(273)}
+2023-05-25 09:27:40 close~2 {CWebsocketDlg.cpp(276)}
+2023-05-25 09:27:40 client ID : [c=0,  hdl:124814104  ]close {CWebsocketDlg.cpp(280)}
+2023-05-25 09:27:40 close  0  hdl:124814104 {CWebsocketDlg.cpp(95)}
+2023-05-25 09:28:39 cert~~end {CWebsocketDlg.cpp(914)}
+2023-05-25 09:28:39 pMyWebsocketDlg - end {CWebsocket.cpp(131)}
+2023-05-25 09:45:23 /*----------------------------InitInstance-WebsocketApp---------------------------*/ {CWebsocket.cpp(115)}
+2023-05-25 09:45:23 pMyWebsocketDlg - begin {CWebsocket.cpp(119)}
+2023-05-25 09:45:23 void CwebserverDlg::KMeansSegment()-begin {CWebsocketDlg.cpp(226)}
+2023-05-25 09:45:24 cert~开始 {CWebsocketDlg.cpp(845)}
+2023-05-25 09:45:31 client ID : [c=1,  hdl:61316680  ]open {CWebsocketDlg.cpp(280)}
+2023-05-25 09:45:31 open  1  hdl:61316680 {CWebsocketDlg.cpp(84)}
+2023-05-25 09:45:31 message {CWebsocketDlg.cpp(266)}
+2023-05-25 09:45:31 client ID : [c=1,  hdl:61316680  ]message {CWebsocketDlg.cpp(280)}
+2023-05-25 09:45:31 websocket-Client 入参数据:*********** {CWebsocketDlg.cpp(317)}
+2023-05-25 09:45:31 入参长度： 38 {CWebsocketDlg.cpp(321)}
+2023-05-25 09:45:31 {"interfaceId":"100002","command":"1"} {CWebsocketDlg.cpp(324)}
+2023-05-25 09:45:31 websocket-Client 入参数据:打印完成*********** {CWebsocketDlg.cpp(325)}
+2023-05-25 09:45:31 return CG:  {CWebsocketDlg.cpp(119)}
+2023-05-25 09:45:54 close~1 {CWebsocketDlg.cpp(273)}
+2023-05-25 09:45:54 close~2 {CWebsocketDlg.cpp(276)}
+2023-05-25 09:45:54 client ID : [c=0,  hdl:61316680  ]close {CWebsocketDlg.cpp(280)}
+2023-05-25 09:45:54 close  0  hdl:61316680 {CWebsocketDlg.cpp(95)}
+2023-05-25 09:45:59 client ID : [c=1,  hdl:81211176  ]open {CWebsocketDlg.cpp(280)}
+2023-05-25 09:45:59 open  1  hdl:81211176 {CWebsocketDlg.cpp(84)}
+2023-05-25 09:45:59 message {CWebsocketDlg.cpp(266)}
+2023-05-25 09:45:59 client ID : [c=1,  hdl:81211176  ]message {CWebsocketDlg.cpp(280)}
+2023-05-25 09:45:59 websocket-Client 入参数据:*********** {CWebsocketDlg.cpp(317)}
+2023-05-25 09:46:00 入参长度： 38 {CWebsocketDlg.cpp(321)}
+2023-05-25 09:46:00 {"interfaceId":"100002","command":"1"} {CWebsocketDlg.cpp(324)}
+2023-05-25 09:46:00 websocket-Client 入参数据:打印完成*********** {CWebsocketDlg.cpp(325)}
+2023-05-25 09:46:00 return CG:  {CWebsocketDlg.cpp(119)}
+2023-05-25 09:46:04 close~1 {CWebsocketDlg.cpp(273)}
+2023-05-25 09:46:04 close~2 {CWebsocketDlg.cpp(276)}
+2023-05-25 09:46:04 client ID : [c=0,  hdl:81211176  ]close {CWebsocketDlg.cpp(280)}
+2023-05-25 09:46:04 close  0  hdl:81211176 {CWebsocketDlg.cpp(95)}
+2023-05-25 09:46:05 client ID : [c=1,  hdl:82131720  ]open {CWebsocketDlg.cpp(280)}
+2023-05-25 09:46:05 open  1  hdl:82131720 {CWebsocketDlg.cpp(84)}
+2023-05-25 09:46:05 message {CWebsocketDlg.cpp(266)}
+2023-05-25 09:46:05 client ID : [c=1,  hdl:82131720  ]message {CWebsocketDlg.cpp(280)}
+2023-05-25 09:46:05 websocket-Client 入参数据:*********** {CWebsocketDlg.cpp(317)}
+2023-05-25 09:46:05 入参长度： 38 {CWebsocketDlg.cpp(321)}
+2023-05-25 09:46:05 {"interfaceId":"100002","command":"1"} {CWebsocketDlg.cpp(324)}
+2023-05-25 09:46:05 websocket-Client 入参数据:打印完成*********** {CWebsocketDlg.cpp(325)}
+2023-05-25 09:46:05 return CG:  {CWebsocketDlg.cpp(119)}
+2023-05-25 09:53:53 close~1 {CWebsocketDlg.cpp(273)}
+2023-05-25 09:53:53 close~2 {CWebsocketDlg.cpp(276)}
+2023-05-25 09:53:53 client ID : [c=0,  hdl:82131720  ]close {CWebsocketDlg.cpp(280)}
+2023-05-25 09:53:53 close  0  hdl:82131720 {CWebsocketDlg.cpp(95)}
+2023-05-25 09:59:05 client ID : [c=1,  hdl:124637064  ]open {CWebsocketDlg.cpp(280)}
+2023-05-25 09:59:05 open  1  hdl:124637064 {CWebsocketDlg.cpp(84)}
+2023-05-25 09:59:05 message {CWebsocketDlg.cpp(266)}
+2023-05-25 09:59:05 client ID : [c=1,  hdl:124637064  ]message {CWebsocketDlg.cpp(280)}
+2023-05-25 09:59:05 websocket-Client 入参数据:*********** {CWebsocketDlg.cpp(317)}
+2023-05-25 09:59:05 入参长度： 38 {CWebsocketDlg.cpp(321)}
+2023-05-25 09:59:05 {"interfaceId":"100002","command":"1"} {CWebsocketDlg.cpp(324)}
+2023-05-25 09:59:05 websocket-Client 入参数据:打印完成*********** {CWebsocketDlg.cpp(325)}
+2023-05-25 09:59:05 return CG:  {CWebsocketDlg.cpp(119)}
+2023-05-25 09:59:10 close~1 {CWebsocketDlg.cpp(273)}
+2023-05-25 09:59:10 close~2 {CWebsocketDlg.cpp(276)}
+2023-05-25 09:59:10 client ID : [c=0,  hdl:124637064  ]close {CWebsocketDlg.cpp(280)}
+2023-05-25 09:59:10 close  0  hdl:124637064 {CWebsocketDlg.cpp(95)}
+2023-05-25 09:59:10 client ID : [c=1,  hdl:141040752  ]open {CWebsocketDlg.cpp(280)}
+2023-05-25 09:59:10 open  1  hdl:141040752 {CWebsocketDlg.cpp(84)}
+2023-05-25 09:59:10 message {CWebsocketDlg.cpp(266)}
+2023-05-25 09:59:10 client ID : [c=1,  hdl:141040752  ]message {CWebsocketDlg.cpp(280)}
+2023-05-25 09:59:10 websocket-Client 入参数据:*********** {CWebsocketDlg.cpp(317)}
+2023-05-25 09:59:10 入参长度： 38 {CWebsocketDlg.cpp(321)}
+2023-05-25 09:59:10 {"interfaceId":"100002","command":"1"} {CWebsocketDlg.cpp(324)}
+2023-05-25 09:59:10 websocket-Client 入参数据:打印完成*********** {CWebsocketDlg.cpp(325)}
+2023-05-25 09:59:10 return CG:  {CWebsocketDlg.cpp(119)}
+2023-05-25 10:00:49 close~1 {CWebsocketDlg.cpp(273)}
+2023-05-25 10:00:49 close~2 {CWebsocketDlg.cpp(276)}
+2023-05-25 10:00:49 client ID : [c=0,  hdl:141040752  ]close {CWebsocketDlg.cpp(280)}
+2023-05-25 10:00:49 close  0  hdl:141040752 {CWebsocketDlg.cpp(95)}
+2023-05-25 10:00:50 client ID : [c=1,  hdl:141089832  ]open {CWebsocketDlg.cpp(280)}
+2023-05-25 10:00:50 open  1  hdl:141089832 {CWebsocketDlg.cpp(84)}
+2023-05-25 10:00:50 message {CWebsocketDlg.cpp(266)}
+2023-05-25 10:00:50 client ID : [c=1,  hdl:141089832  ]message {CWebsocketDlg.cpp(280)}
+2023-05-25 10:00:50 websocket-Client 入参数据:*********** {CWebsocketDlg.cpp(317)}
+2023-05-25 10:00:50 入参长度： 38 {CWebsocketDlg.cpp(321)}
+2023-05-25 10:00:50 {"interfaceId":"100002","command":"1"} {CWebsocketDlg.cpp(324)}
+2023-05-25 10:00:50 websocket-Client 入参数据:打印完成*********** {CWebsocketDlg.cpp(325)}
+2023-05-25 10:00:50 return CG:  {CWebsocketDlg.cpp(119)}
+2023-05-25 10:02:23 close~1 {CWebsocketDlg.cpp(273)}
+2023-05-25 10:02:23 close~2 {CWebsocketDlg.cpp(276)}
+2023-05-25 10:02:23 client ID : [c=0,  hdl:141089832  ]close {CWebsocketDlg.cpp(280)}
+2023-05-25 10:02:23 close  0  hdl:141089832 {CWebsocketDlg.cpp(95)}
+2023-05-25 10:02:30 /*----------------------------InitInstance-WebsocketApp---------------------------*/ {CWebsocket.cpp(115)}
+2023-05-25 10:02:30 pMyWebsocketDlg - begin {CWebsocket.cpp(119)}
+2023-05-25 10:02:30 void CwebserverDlg::KMeansSegment()-begin {CWebsocketDlg.cpp(226)}
+2023-05-25 10:02:31 cert~开始 {CWebsocketDlg.cpp(845)}
+2023-05-25 10:02:37 client ID : [c=1,  hdl:62037680  ]open {CWebsocketDlg.cpp(280)}
+2023-05-25 10:02:37 open  1  hdl:62037680 {CWebsocketDlg.cpp(84)}
+2023-05-25 10:02:37 message {CWebsocketDlg.cpp(266)}
+2023-05-25 10:02:37 client ID : [c=1,  hdl:62037680  ]message {CWebsocketDlg.cpp(280)}
+2023-05-25 10:02:38 websocket-Client 入参数据:*********** {CWebsocketDlg.cpp(317)}
+2023-05-25 10:02:38 入参长度： 38 {CWebsocketDlg.cpp(321)}
+2023-05-25 10:02:38 {"interfaceId":"100002","command":"1"} {CWebsocketDlg.cpp(324)}
+2023-05-25 10:02:38 websocket-Client 入参数据:打印完成*********** {CWebsocketDlg.cpp(325)}
+2023-05-25 10:02:38 return CG:  {CWebsocketDlg.cpp(119)}
+2023-05-25 10:04:18 close~1 {CWebsocketDlg.cpp(273)}
+2023-05-25 10:04:18 close~2 {CWebsocketDlg.cpp(276)}
+2023-05-25 10:04:18 client ID : [c=0,  hdl:62037680  ]close {CWebsocketDlg.cpp(280)}
+2023-05-25 10:04:18 close  0  hdl:62037680 {CWebsocketDlg.cpp(95)}
+2023-05-25 10:04:20 client ID : [c=1,  hdl:81473336  ]open {CWebsocketDlg.cpp(280)}
+2023-05-25 10:04:20 open  1  hdl:81473336 {CWebsocketDlg.cpp(84)}
+2023-05-25 10:04:20 message {CWebsocketDlg.cpp(266)}
+2023-05-25 10:04:20 client ID : [c=1,  hdl:81473336  ]message {CWebsocketDlg.cpp(280)}
+2023-05-25 10:04:20 websocket-Client 入参数据:*********** {CWebsocketDlg.cpp(317)}
+2023-05-25 10:04:20 入参长度： 38 {CWebsocketDlg.cpp(321)}
+2023-05-25 10:04:20 {"interfaceId":"100002","command":"1"} {CWebsocketDlg.cpp(324)}
+2023-05-25 10:04:20 websocket-Client 入参数据:打印完成*********** {CWebsocketDlg.cpp(325)}
+2023-05-25 10:04:20 return CG:  {CWebsocketDlg.cpp(119)}
+2023-05-25 10:04:25 close~1 {CWebsocketDlg.cpp(273)}
+2023-05-25 10:04:25 close~2 {CWebsocketDlg.cpp(276)}
+2023-05-25 10:04:25 client ID : [c=0,  hdl:81473336  ]close {CWebsocketDlg.cpp(280)}
+2023-05-25 10:04:25 close  0  hdl:81473336 {CWebsocketDlg.cpp(95)}
+2023-05-25 10:04:31 cert~~end {CWebsocketDlg.cpp(914)}
+2023-05-25 10:04:31 pMyWebsocketDlg - end {CWebsocket.cpp(131)}
+2023-05-25 16:33:46 /*----------------------------InitInstance-WebsocketApp---------------------------*/ {CWebsocket.cpp(115)}
+2023-05-25 16:33:46 pMyWebsocketDlg - begin {CWebsocket.cpp(119)}
+2023-05-25 16:33:46 void CwebserverDlg::KMeansSegment()-begin {CWebsocketDlg.cpp(226)}
+2023-05-25 16:33:48 cert~开始 {CWebsocketDlg.cpp(845)}
+2023-05-25 16:34:07 client ID : [c=1,  hdl:52403784  ]open {CWebsocketDlg.cpp(280)}
+2023-05-25 16:34:07 open  1  hdl:52403784 {CWebsocketDlg.cpp(84)}
+2023-05-25 16:34:07 message {CWebsocketDlg.cpp(266)}
+2023-05-25 16:34:07 client ID : [c=1,  hdl:52403784  ]message {CWebsocketDlg.cpp(280)}
+2023-05-25 16:34:07 websocket-Client 入参数据:*********** {CWebsocketDlg.cpp(317)}
+2023-05-25 16:34:07 入参长度： 38 {CWebsocketDlg.cpp(321)}
+2023-05-25 16:34:07 {"interfaceId":"100002","command":"1"} {CWebsocketDlg.cpp(324)}
+2023-05-25 16:34:07 websocket-Client 入参数据:打印完成*********** {CWebsocketDlg.cpp(325)}
+2023-05-25 16:34:07 return CG:  {CWebsocketDlg.cpp(119)}
+2023-05-25 16:35:59 close~1 {CWebsocketDlg.cpp(273)}
+2023-05-25 16:35:59 close~2 {CWebsocketDlg.cpp(276)}
+2023-05-25 16:35:59 client ID : [c=0,  hdl:52403784  ]close {CWebsocketDlg.cpp(280)}
+2023-05-25 16:35:59 close  0  hdl:52403784 {CWebsocketDlg.cpp(95)}
+2023-05-25 16:36:01 client ID : [c=1,  hdl:71839528  ]open {CWebsocketDlg.cpp(280)}
+2023-05-25 16:36:01 open  1  hdl:71839528 {CWebsocketDlg.cpp(84)}
+2023-05-25 16:36:01 message {CWebsocketDlg.cpp(266)}
+2023-05-25 16:36:01 client ID : [c=1,  hdl:71839528  ]message {CWebsocketDlg.cpp(280)}
+2023-05-25 16:36:01 websocket-Client 入参数据:*********** {CWebsocketDlg.cpp(317)}
+2023-05-25 16:36:01 入参长度： 38 {CWebsocketDlg.cpp(321)}
+2023-05-25 16:36:01 {"interfaceId":"100002","command":"1"} {CWebsocketDlg.cpp(324)}
+2023-05-25 16:36:01 websocket-Client 入参数据:打印完成*********** {CWebsocketDlg.cpp(325)}
+2023-05-25 16:36:01 return CG:  {CWebsocketDlg.cpp(119)}
+2023-05-25 16:36:40 cert~~end {CWebsocketDlg.cpp(914)}
+2023-05-25 16:36:41 pMyWebsocketDlg - end {CWebsocket.cpp(131)}
+2023-05-25 16:36:47 /*----------------------------InitInstance-WebsocketApp---------------------------*/ {CWebsocket.cpp(115)}
+2023-05-25 16:36:47 pMyWebsocketDlg - begin {CWebsocket.cpp(119)}
+2023-05-25 16:36:47 void CwebserverDlg::KMeansSegment()-begin {CWebsocketDlg.cpp(226)}
+2023-05-25 16:36:48 cert~开始 {CWebsocketDlg.cpp(845)}
+2023-05-25 16:36:54 client ID : [c=1,  hdl:50896456  ]open {CWebsocketDlg.cpp(280)}
+2023-05-25 16:36:54 open  1  hdl:50896456 {CWebsocketDlg.cpp(84)}
+2023-05-25 16:36:54 message {CWebsocketDlg.cpp(266)}
+2023-05-25 16:36:54 client ID : [c=1,  hdl:50896456  ]message {CWebsocketDlg.cpp(280)}
+2023-05-25 16:36:54 websocket-Client 入参数据:*********** {CWebsocketDlg.cpp(317)}
+2023-05-25 16:36:54 入参长度： 38 {CWebsocketDlg.cpp(321)}
+2023-05-25 16:36:54 {"interfaceId":"100002","command":"1"} {CWebsocketDlg.cpp(324)}
+2023-05-25 16:36:54 websocket-Client 入参数据:打印完成*********** {CWebsocketDlg.cpp(325)}
+2023-05-25 16:36:54 return CG:  {CWebsocketDlg.cpp(119)}
+2023-05-25 16:37:33 cert~~end {CWebsocketDlg.cpp(914)}
+2023-05-25 16:37:33 pMyWebsocketDlg - end {CWebsocket.cpp(131)}
+2023-05-25 16:37:45 /*----------------------------InitInstance-WebsocketApp---------------------------*/ {CWebsocket.cpp(115)}
+2023-05-25 16:37:45 pMyWebsocketDlg - begin {CWebsocket.cpp(119)}
+2023-05-25 16:37:45 void CwebserverDlg::KMeansSegment()-begin {CWebsocketDlg.cpp(226)}
+2023-05-25 16:37:46 cert~开始 {CWebsocketDlg.cpp(845)}
+2023-05-25 16:37:57 client ID : [c=1,  hdl:28745288  ]open {CWebsocketDlg.cpp(280)}
+2023-05-25 16:37:57 open  1  hdl:28745288 {CWebsocketDlg.cpp(84)}
+2023-05-25 16:37:57 message {CWebsocketDlg.cpp(266)}
+2023-05-25 16:37:57 client ID : [c=1,  hdl:28745288  ]message {CWebsocketDlg.cpp(280)}
+2023-05-25 16:37:57 websocket-Client 入参数据:*********** {CWebsocketDlg.cpp(317)}
+2023-05-25 16:37:57 入参长度： 38 {CWebsocketDlg.cpp(321)}
+2023-05-25 16:37:57 {"interfaceId":"100002","command":"1"} {CWebsocketDlg.cpp(324)}
+2023-05-25 16:37:57 websocket-Client 入参数据:打印完成*********** {CWebsocketDlg.cpp(325)}
+2023-05-25 16:37:57 return CG:  {CWebsocketDlg.cpp(119)}
+2023-05-25 16:39:24 close~1 {CWebsocketDlg.cpp(273)}
+2023-05-25 16:39:24 close~2 {CWebsocketDlg.cpp(276)}
+2023-05-25 16:39:24 client ID : [c=0,  hdl:28745288  ]close {CWebsocketDlg.cpp(280)}
+2023-05-25 16:39:24 close  0  hdl:28745288 {CWebsocketDlg.cpp(95)}
+2023-05-25 16:39:25 client ID : [c=1,  hdl:80555816  ]open {CWebsocketDlg.cpp(280)}
+2023-05-25 16:39:25 open  1  hdl:80555816 {CWebsocketDlg.cpp(84)}
+2023-05-25 16:39:25 message {CWebsocketDlg.cpp(266)}
+2023-05-25 16:39:25 client ID : [c=1,  hdl:80555816  ]message {CWebsocketDlg.cpp(280)}
+2023-05-25 16:39:25 websocket-Client 入参数据:*********** {CWebsocketDlg.cpp(317)}
+2023-05-25 16:39:25 入参长度： 38 {CWebsocketDlg.cpp(321)}
+2023-05-25 16:39:25 {"interfaceId":"100002","command":"1"} {CWebsocketDlg.cpp(324)}
+2023-05-25 16:39:25 websocket-Client 入参数据:打印完成*********** {CWebsocketDlg.cpp(325)}
+2023-05-25 16:39:25 return CG:  {CWebsocketDlg.cpp(119)}
+2023-05-25 16:39:53 cert~~end {CWebsocketDlg.cpp(914)}
+2023-05-25 16:39:53 pMyWebsocketDlg - end {CWebsocket.cpp(131)}
+2023-05-25 16:40:05 /*----------------------------InitInstance-WebsocketApp---------------------------*/ {CWebsocket.cpp(115)}
+2023-05-25 16:40:05 pMyWebsocketDlg - begin {CWebsocket.cpp(119)}
+2023-05-25 16:40:05 void CwebserverDlg::KMeansSegment()-begin {CWebsocketDlg.cpp(226)}
+2023-05-25 16:40:06 cert~开始 {CWebsocketDlg.cpp(845)}
+2023-05-25 16:40:12 client ID : [c=1,  hdl:59088456  ]open {CWebsocketDlg.cpp(280)}
+2023-05-25 16:40:12 open  1  hdl:59088456 {CWebsocketDlg.cpp(84)}
+2023-05-25 16:40:13 message {CWebsocketDlg.cpp(266)}
+2023-05-25 16:40:13 client ID : [c=1,  hdl:59088456  ]message {CWebsocketDlg.cpp(280)}
+2023-05-25 16:40:13 websocket-Client 入参数据:*********** {CWebsocketDlg.cpp(317)}
+2023-05-25 16:40:13 入参长度： 38 {CWebsocketDlg.cpp(321)}
+2023-05-25 16:40:13 {"interfaceId":"100002","command":"1"} {CWebsocketDlg.cpp(324)}
+2023-05-25 16:40:13 websocket-Client 入参数据:打印完成*********** {CWebsocketDlg.cpp(325)}
+2023-05-25 16:40:13 return CG:  {CWebsocketDlg.cpp(119)}
+2023-05-25 16:41:22 cert~~end {CWebsocketDlg.cpp(914)}
+2023-05-25 16:41:23 pMyWebsocketDlg - end {CWebsocket.cpp(131)}
+2023-05-25 16:43:26 /*----------------------------InitInstance-WebsocketApp---------------------------*/ {CWebsocket.cpp(115)}
+2023-05-25 16:43:26 pMyWebsocketDlg - begin {CWebsocket.cpp(119)}
+2023-05-25 16:43:26 void CwebserverDlg::KMeansSegment()-begin {CWebsocketDlg.cpp(226)}
+2023-05-25 16:43:27 cert~开始 {CWebsocketDlg.cpp(845)}
+2023-05-25 16:43:35 client ID : [c=1,  hdl:17342024  ]open {CWebsocketDlg.cpp(280)}
+2023-05-25 16:43:35 open  1  hdl:17342024 {CWebsocketDlg.cpp(84)}
+2023-05-25 16:43:35 message {CWebsocketDlg.cpp(266)}
+2023-05-25 16:43:35 client ID : [c=1,  hdl:17342024  ]message {CWebsocketDlg.cpp(280)}
+2023-05-25 16:43:35 websocket-Client 入参数据:*********** {CWebsocketDlg.cpp(317)}
+2023-05-25 16:43:35 入参长度： 38 {CWebsocketDlg.cpp(321)}
+2023-05-25 16:43:35 {"interfaceId":"100002","command":"1"} {CWebsocketDlg.cpp(324)}
+2023-05-25 16:43:35 websocket-Client 入参数据:打印完成*********** {CWebsocketDlg.cpp(325)}
+2023-05-25 16:43:35 return CG:  {CWebsocketDlg.cpp(119)}
+2023-05-25 16:45:45 close~1 {CWebsocketDlg.cpp(273)}
+2023-05-25 16:45:45 close~2 {CWebsocketDlg.cpp(276)}
+2023-05-25 16:45:45 client ID : [c=0,  hdl:17342024  ]close {CWebsocketDlg.cpp(280)}
+2023-05-25 16:45:45 close  0  hdl:17342024 {CWebsocketDlg.cpp(95)}
+2023-05-25 16:45:49 client ID : [c=1,  hdl:69218088  ]open {CWebsocketDlg.cpp(280)}
+2023-05-25 16:45:49 open  1  hdl:69218088 {CWebsocketDlg.cpp(84)}
+2023-05-25 16:45:49 message {CWebsocketDlg.cpp(266)}
+2023-05-25 16:45:49 client ID : [c=1,  hdl:69218088  ]message {CWebsocketDlg.cpp(280)}
+2023-05-25 16:45:49 websocket-Client 入参数据:*********** {CWebsocketDlg.cpp(317)}
+2023-05-25 16:45:49 入参长度： 38 {CWebsocketDlg.cpp(321)}
+2023-05-25 16:45:49 {"interfaceId":"100002","command":"1"} {CWebsocketDlg.cpp(324)}
+2023-05-25 16:45:49 websocket-Client 入参数据:打印完成*********** {CWebsocketDlg.cpp(325)}
+2023-05-25 16:45:49 return CG:  {CWebsocketDlg.cpp(119)}
+2023-05-25 16:46:47 close~1 {CWebsocketDlg.cpp(273)}
+2023-05-25 16:46:47 close~2 {CWebsocketDlg.cpp(276)}
+2023-05-25 16:46:47 client ID : [c=0,  hdl:69218088  ]close {CWebsocketDlg.cpp(280)}
+2023-05-25 16:46:47 close  0  hdl:69218088 {CWebsocketDlg.cpp(95)}
+2023-05-25 16:46:47 client ID : [c=1,  hdl:114345608  ]open {CWebsocketDlg.cpp(280)}
+2023-05-25 16:46:47 open  1  hdl:114345608 {CWebsocketDlg.cpp(84)}
+2023-05-25 16:46:47 message {CWebsocketDlg.cpp(266)}
+2023-05-25 16:46:47 client ID : [c=1,  hdl:114345608  ]message {CWebsocketDlg.cpp(280)}
+2023-05-25 16:46:47 websocket-Client 入参数据:*********** {CWebsocketDlg.cpp(317)}
+2023-05-25 16:46:48 入参长度： 38 {CWebsocketDlg.cpp(321)}
+2023-05-25 16:46:48 {"interfaceId":"100002","command":"1"} {CWebsocketDlg.cpp(324)}
+2023-05-25 16:46:48 websocket-Client 入参数据:打印完成*********** {CWebsocketDlg.cpp(325)}
+2023-05-25 16:46:48 return CG:  {CWebsocketDlg.cpp(119)}
+2023-05-25 16:46:48 close~1 {CWebsocketDlg.cpp(273)}
+2023-05-25 16:46:48 close~2 {CWebsocketDlg.cpp(276)}
+2023-05-25 16:46:48 client ID : [c=0,  hdl:114345608  ]close {CWebsocketDlg.cpp(280)}
+2023-05-25 16:46:48 close  0  hdl:114345608 {CWebsocketDlg.cpp(95)}
+2023-05-25 16:46:49 client ID : [c=1,  hdl:116372856  ]open {CWebsocketDlg.cpp(280)}
+2023-05-25 16:46:49 open  1  hdl:116372856 {CWebsocketDlg.cpp(84)}
+2023-05-25 16:46:49 message {CWebsocketDlg.cpp(266)}
+2023-05-25 16:46:49 client ID : [c=1,  hdl:116372856  ]message {CWebsocketDlg.cpp(280)}
+2023-05-25 16:46:49 websocket-Client 入参数据:*********** {CWebsocketDlg.cpp(317)}
+2023-05-25 16:46:49 入参长度： 38 {CWebsocketDlg.cpp(321)}
+2023-05-25 16:46:49 {"interfaceId":"100002","command":"1"} {CWebsocketDlg.cpp(324)}
+2023-05-25 16:46:49 websocket-Client 入参数据:打印完成*********** {CWebsocketDlg.cpp(325)}
+2023-05-25 16:46:49 return CG:  {CWebsocketDlg.cpp(119)}
+2023-05-25 16:51:03 close~1 {CWebsocketDlg.cpp(273)}
+2023-05-25 16:51:04 close~2 {CWebsocketDlg.cpp(276)}
+2023-05-25 16:51:04 client ID : [c=0,  hdl:116372856  ]close {CWebsocketDlg.cpp(280)}
+2023-05-25 16:51:04 close  0  hdl:116372856 {CWebsocketDlg.cpp(95)}
+2023-05-25 16:51:13 client ID : [c=1,  hdl:116437960  ]open {CWebsocketDlg.cpp(280)}
+2023-05-25 16:51:13 open  1  hdl:116437960 {CWebsocketDlg.cpp(84)}
+2023-05-25 16:51:13 message {CWebsocketDlg.cpp(266)}
+2023-05-25 16:51:13 client ID : [c=1,  hdl:116437960  ]message {CWebsocketDlg.cpp(280)}
+2023-05-25 16:51:13 websocket-Client 入参数据:*********** {CWebsocketDlg.cpp(317)}
+2023-05-25 16:51:13 入参长度： 38 {CWebsocketDlg.cpp(321)}
+2023-05-25 16:51:13 {"interfaceId":"100002","command":"1"} {CWebsocketDlg.cpp(324)}
+2023-05-25 16:51:13 websocket-Client 入参数据:打印完成*********** {CWebsocketDlg.cpp(325)}
+2023-05-25 16:51:13 return CG:  {CWebsocketDlg.cpp(119)}
+2023-05-25 16:57:20 close~1 {CWebsocketDlg.cpp(273)}
+2023-05-25 16:57:20 close~2 {CWebsocketDlg.cpp(276)}
+2023-05-25 16:57:20 client ID : [c=0,  hdl:116437960  ]close {CWebsocketDlg.cpp(280)}
+2023-05-25 16:57:20 close  0  hdl:116437960 {CWebsocketDlg.cpp(95)}
+2023-05-25 16:57:20 client ID : [c=1,  hdl:123094904  ]open {CWebsocketDlg.cpp(280)}
+2023-05-25 16:57:20 open  1  hdl:123094904 {CWebsocketDlg.cpp(84)}
+2023-05-25 16:57:20 message {CWebsocketDlg.cpp(266)}
+2023-05-25 16:57:20 client ID : [c=1,  hdl:123094904  ]message {CWebsocketDlg.cpp(280)}
+2023-05-25 16:57:20 websocket-Client 入参数据:*********** {CWebsocketDlg.cpp(317)}
+2023-05-25 16:57:20 入参长度： 38 {CWebsocketDlg.cpp(321)}
+2023-05-25 16:57:20 {"interfaceId":"100002","command":"1"} {CWebsocketDlg.cpp(324)}
+2023-05-25 16:57:20 websocket-Client 入参数据:打印完成*********** {CWebsocketDlg.cpp(325)}
+2023-05-25 16:57:20 return CG:  {CWebsocketDlg.cpp(119)}
+2023-05-25 16:57:26 close~1 {CWebsocketDlg.cpp(273)}
+2023-05-25 16:57:27 close~2 {CWebsocketDlg.cpp(276)}
+2023-05-25 16:57:27 client ID : [c=0,  hdl:123094904  ]close {CWebsocketDlg.cpp(280)}
+2023-05-25 16:57:27 close  0  hdl:123094904 {CWebsocketDlg.cpp(95)}
+2023-05-25 16:57:27 client ID : [c=1,  hdl:146588808  ]open {CWebsocketDlg.cpp(280)}
+2023-05-25 16:57:27 open  1  hdl:146588808 {CWebsocketDlg.cpp(84)}
+2023-05-25 16:57:27 message {CWebsocketDlg.cpp(266)}
+2023-05-25 16:57:27 client ID : [c=1,  hdl:146588808  ]message {CWebsocketDlg.cpp(280)}
+2023-05-25 16:57:27 websocket-Client 入参数据:*********** {CWebsocketDlg.cpp(317)}
+2023-05-25 16:57:27 入参长度： 38 {CWebsocketDlg.cpp(321)}
+2023-05-25 16:57:27 {"interfaceId":"100002","command":"1"} {CWebsocketDlg.cpp(324)}
+2023-05-25 16:57:27 websocket-Client 入参数据:打印完成*********** {CWebsocketDlg.cpp(325)}
+2023-05-25 16:57:27 return CG:  {CWebsocketDlg.cpp(119)}
+2023-05-25 16:57:44 close~1 {CWebsocketDlg.cpp(273)}
+2023-05-25 16:57:44 close~2 {CWebsocketDlg.cpp(276)}
+2023-05-25 16:57:44 client ID : [c=0,  hdl:146588808  ]close {CWebsocketDlg.cpp(280)}
+2023-05-25 16:57:44 close  0  hdl:146588808 {CWebsocketDlg.cpp(95)}
+2023-05-25 16:57:44 client ID : [c=1,  hdl:146779328  ]open {CWebsocketDlg.cpp(280)}
+2023-05-25 16:57:45 open  1  hdl:146779328 {CWebsocketDlg.cpp(84)}
+2023-05-25 16:57:45 message {CWebsocketDlg.cpp(266)}
+2023-05-25 16:57:45 client ID : [c=1,  hdl:146779328  ]message {CWebsocketDlg.cpp(280)}
+2023-05-25 16:57:45 websocket-Client 入参数据:*********** {CWebsocketDlg.cpp(317)}
+2023-05-25 16:57:45 入参长度： 38 {CWebsocketDlg.cpp(321)}
+2023-05-25 16:57:45 {"interfaceId":"100002","command":"1"} {CWebsocketDlg.cpp(324)}
+2023-05-25 16:57:45 websocket-Client 入参数据:打印完成*********** {CWebsocketDlg.cpp(325)}
+2023-05-25 16:57:45 return CG:  {CWebsocketDlg.cpp(119)}
+2023-05-25 16:58:08 close~1 {CWebsocketDlg.cpp(273)}
+2023-05-25 16:58:08 close~2 {CWebsocketDlg.cpp(276)}
+2023-05-25 16:58:08 client ID : [c=0,  hdl:146779328  ]close {CWebsocketDlg.cpp(280)}
+2023-05-25 16:58:08 close  0  hdl:146779328 {CWebsocketDlg.cpp(95)}
+2023-05-25 16:58:14 client ID : [c=1,  hdl:147068136  ]open {CWebsocketDlg.cpp(280)}
+2023-05-25 16:58:14 open  1  hdl:147068136 {CWebsocketDlg.cpp(84)}
+2023-05-25 16:58:14 message {CWebsocketDlg.cpp(266)}
+2023-05-25 16:58:14 client ID : [c=1,  hdl:147068136  ]message {CWebsocketDlg.cpp(280)}
+2023-05-25 16:58:14 websocket-Client 入参数据:*********** {CWebsocketDlg.cpp(317)}
+2023-05-25 16:58:14 入参长度： 38 {CWebsocketDlg.cpp(321)}
+2023-05-25 16:58:14 {"interfaceId":"100002","command":"1"} {CWebsocketDlg.cpp(324)}
+2023-05-25 16:58:14 websocket-Client 入参数据:打印完成*********** {CWebsocketDlg.cpp(325)}
+2023-05-25 16:58:14 return CG:  {CWebsocketDlg.cpp(119)}
+2023-05-25 17:01:15 close~1 {CWebsocketDlg.cpp(273)}
+2023-05-25 17:01:15 close~2 {CWebsocketDlg.cpp(276)}
+2023-05-25 17:01:15 client ID : [c=0,  hdl:147068136  ]close {CWebsocketDlg.cpp(280)}
+2023-05-25 17:01:15 close  0  hdl:147068136 {CWebsocketDlg.cpp(95)}
+2023-05-25 17:03:35 client ID : [c=1,  hdl:148145888  ]open {CWebsocketDlg.cpp(280)}
+2023-05-25 17:03:35 open  1  hdl:148145888 {CWebsocketDlg.cpp(84)}
+2023-05-25 17:03:35 message {CWebsocketDlg.cpp(266)}
+2023-05-25 17:03:35 client ID : [c=1,  hdl:148145888  ]message {CWebsocketDlg.cpp(280)}
+2023-05-25 17:03:35 websocket-Client 入参数据:*********** {CWebsocketDlg.cpp(317)}
+2023-05-25 17:03:35 入参长度： 38 {CWebsocketDlg.cpp(321)}
+2023-05-25 17:03:35 {"interfaceId":"100002","command":"1"} {CWebsocketDlg.cpp(324)}
+2023-05-25 17:03:35 websocket-Client 入参数据:打印完成*********** {CWebsocketDlg.cpp(325)}
+2023-05-25 17:03:35 return CG:  {CWebsocketDlg.cpp(119)}
+2023-05-25 17:17:40 close~1 {CWebsocketDlg.cpp(273)}
+2023-05-25 17:17:40 close~2 {CWebsocketDlg.cpp(276)}
+2023-05-25 17:17:40 client ID : [c=0,  hdl:148145888  ]close {CWebsocketDlg.cpp(280)}
+2023-05-25 17:17:40 close  0  hdl:148145888 {CWebsocketDlg.cpp(95)}
+2023-05-25 17:17:42 client ID : [c=1,  hdl:152029320  ]open {CWebsocketDlg.cpp(280)}
+2023-05-25 17:17:42 open  1  hdl:152029320 {CWebsocketDlg.cpp(84)}
+2023-05-25 17:17:42 message {CWebsocketDlg.cpp(266)}
+2023-05-25 17:17:42 client ID : [c=1,  hdl:152029320  ]message {CWebsocketDlg.cpp(280)}
+2023-05-25 17:17:42 websocket-Client 入参数据:*********** {CWebsocketDlg.cpp(317)}
+2023-05-25 17:17:42 入参长度： 38 {CWebsocketDlg.cpp(321)}
+2023-05-25 17:17:42 {"interfaceId":"100002","command":"1"} {CWebsocketDlg.cpp(324)}
+2023-05-25 17:17:42 websocket-Client 入参数据:打印完成*********** {CWebsocketDlg.cpp(325)}
+2023-05-25 17:17:42 return CG:  {CWebsocketDlg.cpp(119)}
+2023-05-25 17:24:52 client ID : [c=2,  hdl:166185904  ]open {CWebsocketDlg.cpp(280)}
+2023-05-25 17:24:52 open  2  hdl:166185904 {CWebsocketDlg.cpp(84)}
+2023-05-25 17:24:52 message {CWebsocketDlg.cpp(266)}
+2023-05-25 17:24:52 client ID : [c=2,  hdl:166185904  ]message {CWebsocketDlg.cpp(280)}
+2023-05-25 17:24:52 websocket-Client 入参数据:*********** {CWebsocketDlg.cpp(317)}
+2023-05-25 17:24:52 入参长度： 31 {CWebsocketDlg.cpp(321)}
+2023-05-25 17:24:52 {"t":"open","c":"ch1","v":"NA"} {CWebsocketDlg.cpp(324)}
+2023-05-25 17:24:52 websocket-Client 入参数据:打印完成*********** {CWebsocketDlg.cpp(325)}
+2023-05-25 17:24:52 json数据: ****
+{"interfaceId":"","msg":"未找到interfaceId接口字段,请检测是否含有该字段！","result":"fail"}
+ {CWebsocketDlg.cpp(122)}
+2023-05-25 17:24:52 client ID :  [c=2,  hdl:166185904  ] send {CWebsocketDlg.cpp(139)}
+2023-05-25 17:24:53 client ID : [c=3,  hdl:171240464  ]open {CWebsocketDlg.cpp(280)}
+2023-05-25 17:24:53 open  3  hdl:171240464 {CWebsocketDlg.cpp(84)}
+2023-05-25 17:24:53 message {CWebsocketDlg.cpp(266)}
+2023-05-25 17:24:53 client ID : [c=3,  hdl:171240464  ]message {CWebsocketDlg.cpp(280)}
+2023-05-25 17:24:53 websocket-Client 入参数据:*********** {CWebsocketDlg.cpp(317)}
+2023-05-25 17:24:53 入参长度： 31 {CWebsocketDlg.cpp(321)}
+2023-05-25 17:24:53 {"t":"open","c":"ch2","v":"NA"} {CWebsocketDlg.cpp(324)}
+2023-05-25 17:24:53 websocket-Client 入参数据:打印完成*********** {CWebsocketDlg.cpp(325)}
+2023-05-25 17:24:53 json数据: ****
+{"interfaceId":"","msg":"未找到interfaceId接口字段,请检测是否含有该字段！","result":"fail"}
+ {CWebsocketDlg.cpp(122)}
+2023-05-25 17:24:53 client ID :  [c=3,  hdl:171240464  ] send {CWebsocketDlg.cpp(139)}
+2023-05-25 17:25:05 /*----------------------------InitInstance-WebsocketApp---------------------------*/ {CWebsocket.cpp(115)}
+2023-05-25 17:25:05 pMyWebsocketDlg - begin {CWebsocket.cpp(119)}
+2023-05-25 17:25:05 void CwebserverDlg::KMeansSegment()-begin {CWebsocketDlg.cpp(226)}
+2023-05-25 17:25:06 cert~开始 {CWebsocketDlg.cpp(845)}
+2023-05-25 17:25:17 client ID : [c=1,  hdl:57843376  ]open {CWebsocketDlg.cpp(280)}
+2023-05-25 17:25:17 open  1  hdl:57843376 {CWebsocketDlg.cpp(84)}
+2023-05-25 17:25:17 message {CWebsocketDlg.cpp(266)}
+2023-05-25 17:25:17 client ID : [c=1,  hdl:57843376  ]message {CWebsocketDlg.cpp(280)}
+2023-05-25 17:25:17 websocket-Client 入参数据:*********** {CWebsocketDlg.cpp(317)}
+2023-05-25 17:25:17 入参长度： 31 {CWebsocketDlg.cpp(321)}
+2023-05-25 17:25:17 {"t":"open","c":"ch1","v":"NA"} {CWebsocketDlg.cpp(324)}
+2023-05-25 17:25:17 websocket-Client 入参数据:打印完成*********** {CWebsocketDlg.cpp(325)}
+2023-05-25 17:25:17 json数据: ****
+{"interfaceId":"","msg":"未找到interfaceId接口字段,请检测是否含有该字段！","result":"fail"}
+ {CWebsocketDlg.cpp(122)}
+2023-05-25 17:25:17 client ID :  [c=1,  hdl:57843376  ] send {CWebsocketDlg.cpp(139)}
+2023-05-25 17:25:54 close~1 {CWebsocketDlg.cpp(273)}
+2023-05-25 17:25:54 close~2 {CWebsocketDlg.cpp(276)}
+2023-05-25 17:25:54 client ID : [c=0,  hdl:57843376  ]close {CWebsocketDlg.cpp(280)}
+2023-05-25 17:25:54 close  0  hdl:57843376 {CWebsocketDlg.cpp(95)}
+2023-05-25 17:25:54 client ID : [c=1,  hdl:78262072  ]open {CWebsocketDlg.cpp(280)}
+2023-05-25 17:25:54 open  1  hdl:78262072 {CWebsocketDlg.cpp(84)}
+2023-05-25 17:25:54 message {CWebsocketDlg.cpp(266)}
+2023-05-25 17:25:54 client ID : [c=1,  hdl:78262072  ]message {CWebsocketDlg.cpp(280)}
+2023-05-25 17:25:54 websocket-Client 入参数据:*********** {CWebsocketDlg.cpp(317)}
+2023-05-25 17:25:54 入参长度： 31 {CWebsocketDlg.cpp(321)}
+2023-05-25 17:25:54 {"t":"open","c":"ch1","v":"NA"} {CWebsocketDlg.cpp(324)}
+2023-05-25 17:25:54 websocket-Client 入参数据:打印完成*********** {CWebsocketDlg.cpp(325)}
+2023-05-25 17:25:54 json数据: ****
+{"interfaceId":"","msg":"未找到interfaceId接口字段,请检测是否含有该字段！","result":"fail"}
+ {CWebsocketDlg.cpp(122)}
+2023-05-25 17:25:54 client ID :  [c=1,  hdl:78262072  ] send {CWebsocketDlg.cpp(139)}
+2023-05-25 17:26:10 close~1 {CWebsocketDlg.cpp(273)}
+2023-05-25 17:26:10 close~2 {CWebsocketDlg.cpp(276)}
+2023-05-25 17:26:10 client ID : [c=0,  hdl:78262072  ]close {CWebsocketDlg.cpp(280)}
+2023-05-25 17:26:10 close  0  hdl:78262072 {CWebsocketDlg.cpp(95)}
+2023-05-25 17:26:10 client ID : [c=1,  hdl:79159112  ]open {CWebsocketDlg.cpp(280)}
+2023-05-25 17:26:10 open  1  hdl:79159112 {CWebsocketDlg.cpp(84)}
+2023-05-25 17:26:10 message {CWebsocketDlg.cpp(266)}
+2023-05-25 17:26:10 client ID : [c=1,  hdl:79159112  ]message {CWebsocketDlg.cpp(280)}
+2023-05-25 17:26:10 websocket-Client 入参数据:*********** {CWebsocketDlg.cpp(317)}
+2023-05-25 17:26:10 入参长度： 31 {CWebsocketDlg.cpp(321)}
+2023-05-25 17:26:10 {"t":"open","c":"ch1","v":"NA"} {CWebsocketDlg.cpp(324)}
+2023-05-25 17:26:10 websocket-Client 入参数据:打印完成*********** {CWebsocketDlg.cpp(325)}
+2023-05-25 17:26:10 json数据: ****
+{"interfaceId":"","msg":"未找到interfaceId接口字段,请检测是否含有该字段！","result":"fail"}
+ {CWebsocketDlg.cpp(122)}
+2023-05-25 17:26:10 client ID :  [c=1,  hdl:79159112  ] send {CWebsocketDlg.cpp(139)}
+2023-05-25 17:26:33 client ID : [c=2,  hdl:70123632  ]open {CWebsocketDlg.cpp(280)}
+2023-05-25 17:26:33 open  2  hdl:70123632 {CWebsocketDlg.cpp(84)}
+2023-05-25 17:26:33 message {CWebsocketDlg.cpp(266)}
+2023-05-25 17:26:33 client ID : [c=2,  hdl:70123632  ]message {CWebsocketDlg.cpp(280)}
+2023-05-25 17:26:33 websocket-Client 入参数据:*********** {CWebsocketDlg.cpp(317)}
+2023-05-25 17:26:33 入参长度： 38 {CWebsocketDlg.cpp(321)}
+2023-05-25 17:26:33 {"interfaceId":"100002","command":"1"} {CWebsocketDlg.cpp(324)}
+2023-05-25 17:26:34 websocket-Client 入参数据:打印完成*********** {CWebsocketDlg.cpp(325)}
+2023-05-25 17:26:34 return CG:  {CWebsocketDlg.cpp(119)}
+2023-05-25 17:26:40 /*----------------------------InitInstance-WebsocketApp---------------------------*/ {CWebsocket.cpp(115)}
+2023-05-25 17:26:40 pMyWebsocketDlg - begin {CWebsocket.cpp(119)}
+2023-05-25 17:26:40 void CwebserverDlg::KMeansSegment()-begin {CWebsocketDlg.cpp(226)}
+2023-05-25 17:26:41 client ID : [c=1,  hdl:56073968  ]open {CWebsocketDlg.cpp(280)}
+2023-05-25 17:26:41 open  1  hdl:56073968 {CWebsocketDlg.cpp(84)}
+2023-05-25 17:26:41 message {CWebsocketDlg.cpp(266)}
+2023-05-25 17:26:41 client ID : [c=1,  hdl:56073968  ]message {CWebsocketDlg.cpp(280)}
+2023-05-25 17:26:41 websocket-Client 入参数据:*********** {CWebsocketDlg.cpp(317)}
+2023-05-25 17:26:41 入参长度： 38 {CWebsocketDlg.cpp(321)}
+2023-05-25 17:26:41 {"interfaceId":"100002","command":"1"} {CWebsocketDlg.cpp(324)}
+2023-05-25 17:26:41 websocket-Client 入参数据:打印完成*********** {CWebsocketDlg.cpp(325)}
+2023-05-25 17:26:41 return CG:  {CWebsocketDlg.cpp(119)}
+2023-05-25 17:26:41 cert~开始 {CWebsocketDlg.cpp(845)}
+2023-05-25 17:28:04 client ID : [c=2,  hdl:79245208  ]open {CWebsocketDlg.cpp(280)}
+2023-05-25 17:28:04 open  2  hdl:79245208 {CWebsocketDlg.cpp(84)}
+2023-05-25 17:28:04 message {CWebsocketDlg.cpp(266)}
+2023-05-25 17:28:04 client ID : [c=2,  hdl:79245208  ]message {CWebsocketDlg.cpp(280)}
+2023-05-25 17:28:04 websocket-Client 入参数据:*********** {CWebsocketDlg.cpp(317)}
+2023-05-25 17:28:04 入参长度： 31 {CWebsocketDlg.cpp(321)}
+2023-05-25 17:28:04 {"t":"open","c":"ch1","v":"NA"} {CWebsocketDlg.cpp(324)}
+2023-05-25 17:28:04 websocket-Client 入参数据:打印完成*********** {CWebsocketDlg.cpp(325)}
+2023-05-25 17:28:04 json数据: ****
+{"interfaceId":"","msg":"未找到interfaceId接口字段,请检测是否含有该字段！","result":"fail"}
+ {CWebsocketDlg.cpp(122)}
+2023-05-25 17:28:04 client ID :  [c=2,  hdl:79245208  ] send {CWebsocketDlg.cpp(139)}
+2023-05-25 17:33:08 close~1 {CWebsocketDlg.cpp(273)}
+2023-05-25 17:33:09 close~2 {CWebsocketDlg.cpp(276)}
+2023-05-25 17:33:09 client ID : [c=1,  hdl:79245208  ]close {CWebsocketDlg.cpp(280)}
+2023-05-25 17:33:09 close  1  hdl:79245208 {CWebsocketDlg.cpp(95)}
+2023-05-25 17:33:09 client ID : [c=2,  hdl:60092776  ]open {CWebsocketDlg.cpp(280)}
+2023-05-25 17:33:09 open  2  hdl:60092776 {CWebsocketDlg.cpp(84)}
+2023-05-25 17:33:09 message {CWebsocketDlg.cpp(266)}
+2023-05-25 17:33:09 client ID : [c=2,  hdl:60092776  ]message {CWebsocketDlg.cpp(280)}
+2023-05-25 17:33:09 websocket-Client 入参数据:*********** {CWebsocketDlg.cpp(317)}
+2023-05-25 17:33:09 入参长度： 31 {CWebsocketDlg.cpp(321)}
+2023-05-25 17:33:09 {"t":"open","c":"ch1","v":"NA"} {CWebsocketDlg.cpp(324)}
+2023-05-25 17:33:09 websocket-Client 入参数据:打印完成*********** {CWebsocketDlg.cpp(325)}
+2023-05-25 17:33:09 json数据: ****
+{"interfaceId":"","msg":"未找到interfaceId接口字段,请检测是否含有该字段！","result":"fail"}
+ {CWebsocketDlg.cpp(122)}
+2023-05-25 17:33:09 client ID :  [c=2,  hdl:60092776  ] send {CWebsocketDlg.cpp(139)}
+2023-05-25 17:42:48 close~1 {CWebsocketDlg.cpp(273)}
+2023-05-25 17:42:48 close~2 {CWebsocketDlg.cpp(276)}
+2023-05-25 17:42:48 client ID : [c=1,  hdl:60092776  ]close {CWebsocketDlg.cpp(280)}
+2023-05-25 17:42:48 close  1  hdl:60092776 {CWebsocketDlg.cpp(95)}
+2023-05-25 17:42:48 client ID : [c=2,  hdl:74081112  ]open {CWebsocketDlg.cpp(280)}
+2023-05-25 17:42:48 open  2  hdl:74081112 {CWebsocketDlg.cpp(84)}
+2023-05-25 17:42:48 message {CWebsocketDlg.cpp(266)}
+2023-05-25 17:42:48 client ID : [c=2,  hdl:74081112  ]message {CWebsocketDlg.cpp(280)}
+2023-05-25 17:42:48 websocket-Client 入参数据:*********** {CWebsocketDlg.cpp(317)}
+2023-05-25 17:42:48 入参长度： 31 {CWebsocketDlg.cpp(321)}
+2023-05-25 17:42:48 {"t":"open","c":"ch1","v":"NA"} {CWebsocketDlg.cpp(324)}
+2023-05-25 17:42:48 websocket-Client 入参数据:打印完成*********** {CWebsocketDlg.cpp(325)}
+2023-05-25 17:42:48 json数据: ****
+{"interfaceId":"","msg":"未找到interfaceId接口字段,请检测是否含有该字段！","result":"fail"}
+ {CWebsocketDlg.cpp(122)}
+2023-05-25 17:42:48 client ID :  [c=2,  hdl:74081112  ] send {CWebsocketDlg.cpp(139)}
+2023-05-25 17:43:00 close~1 {CWebsocketDlg.cpp(273)}
+2023-05-25 17:43:00 close~2 {CWebsocketDlg.cpp(276)}
+2023-05-25 17:43:00 client ID : [c=1,  hdl:56073968  ]close {CWebsocketDlg.cpp(280)}
+2023-05-25 17:43:00 close  1  hdl:56073968 {CWebsocketDlg.cpp(95)}
+2023-05-25 17:43:02 client ID : [c=2,  hdl:138996960  ]open {CWebsocketDlg.cpp(280)}
+2023-05-25 17:43:02 open  2  hdl:138996960 {CWebsocketDlg.cpp(84)}
+2023-05-25 17:43:02 message {CWebsocketDlg.cpp(266)}
+2023-05-25 17:43:02 client ID : [c=2,  hdl:138996960  ]message {CWebsocketDlg.cpp(280)}
+2023-05-25 17:43:02 websocket-Client 入参数据:*********** {CWebsocketDlg.cpp(317)}
+2023-05-25 17:43:02 入参长度： 38 {CWebsocketDlg.cpp(321)}
+2023-05-25 17:43:02 {"interfaceId":"100002","command":"1"} {CWebsocketDlg.cpp(324)}
+2023-05-25 17:43:02 websocket-Client 入参数据:打印完成*********** {CWebsocketDlg.cpp(325)}
+2023-05-25 17:43:02 return CG:  {CWebsocketDlg.cpp(119)}
+2023-05-25 17:46:03 close~1 {CWebsocketDlg.cpp(273)}
+2023-05-25 17:46:03 close~2 {CWebsocketDlg.cpp(276)}
+2023-05-25 17:46:03 client ID : [c=1,  hdl:138996960  ]close {CWebsocketDlg.cpp(280)}
+2023-05-25 17:46:03 close  1  hdl:138996960 {CWebsocketDlg.cpp(95)}
+2023-05-25 17:46:27 client ID : [c=2,  hdl:56073968  ]open {CWebsocketDlg.cpp(280)}
+2023-05-25 17:46:27 open  2  hdl:56073968 {CWebsocketDlg.cpp(84)}
+2023-05-25 17:46:27 message {CWebsocketDlg.cpp(266)}
+2023-05-25 17:46:27 client ID : [c=2,  hdl:56073968  ]message {CWebsocketDlg.cpp(280)}
+2023-05-25 17:46:27 websocket-Client 入参数据:*********** {CWebsocketDlg.cpp(317)}
+2023-05-25 17:46:27 入参长度： 38 {CWebsocketDlg.cpp(321)}
+2023-05-25 17:46:27 {"interfaceId":"100002","command":"1"} {CWebsocketDlg.cpp(324)}
+2023-05-25 17:46:27 websocket-Client 入参数据:打印完成*********** {CWebsocketDlg.cpp(325)}
+2023-05-25 17:46:27 return CG:  {CWebsocketDlg.cpp(119)}
+2023-05-25 17:50:28 close~1 {CWebsocketDlg.cpp(273)}
+2023-05-25 17:50:28 close~2 {CWebsocketDlg.cpp(276)}
+2023-05-25 17:50:28 client ID : [c=1,  hdl:56073968  ]close {CWebsocketDlg.cpp(280)}
+2023-05-25 17:50:28 close  1  hdl:56073968 {CWebsocketDlg.cpp(95)}
+2023-05-25 17:50:29 client ID : [c=2,  hdl:142519176  ]open {CWebsocketDlg.cpp(280)}
+2023-05-25 17:50:29 open  2  hdl:142519176 {CWebsocketDlg.cpp(84)}
+2023-05-25 17:50:29 message {CWebsocketDlg.cpp(266)}
+2023-05-25 17:50:29 client ID : [c=2,  hdl:142519176  ]message {CWebsocketDlg.cpp(280)}
+2023-05-25 17:50:29 websocket-Client 入参数据:*********** {CWebsocketDlg.cpp(317)}
+2023-05-25 17:50:29 入参长度： 38 {CWebsocketDlg.cpp(321)}
+2023-05-25 17:50:29 {"interfaceId":"100002","command":"1"} {CWebsocketDlg.cpp(324)}
+2023-05-25 17:50:29 websocket-Client 入参数据:打印完成*********** {CWebsocketDlg.cpp(325)}
+2023-05-25 17:50:29 return CG:  {CWebsocketDlg.cpp(119)}
+2023-05-25 17:50:51 cert~~end {CWebsocketDlg.cpp(914)}
+2023-05-25 17:50:52 pMyWebsocketDlg - end {CWebsocket.cpp(131)}
+2023-05-25 17:51:11 /*----------------------------InitInstance-WebsocketApp---------------------------*/ {CWebsocket.cpp(129)}
+2023-05-25 17:51:11 pMyWebsocketDlg - begin {CWebsocket.cpp(133)}
+2023-05-25 17:51:11 void CwebserverDlg::KMeansSegment()-begin {CWebsocketDlg.cpp(226)}
+2023-05-25 17:51:12 cert~开始 {CWebsocketDlg.cpp(845)}
+2023-05-25 17:51:28 cert~~end {CWebsocketDlg.cpp(914)}
+2023-05-25 17:51:28 pMyWebsocketDlg - end {CWebsocket.cpp(145)}
+2023-05-25 17:51:43 /*----------------------------InitInstance-WebsocketApp---------------------------*/ {CWebsocket.cpp(129)}
+2023-05-25 17:51:43 pMyWebsocketDlg - begin {CWebsocket.cpp(133)}
+2023-05-25 17:51:43 void CwebserverDlg::KMeansSegment()-begin {CWebsocketDlg.cpp(226)}
+2023-05-25 17:51:44 cert~开始 {CWebsocketDlg.cpp(845)}
+2023-05-25 17:51:50 client ID : [c=1,  hdl:53386824  ]open {CWebsocketDlg.cpp(280)}
+2023-05-25 17:51:50 open  1  hdl:53386824 {CWebsocketDlg.cpp(84)}
+2023-05-25 17:51:50 message {CWebsocketDlg.cpp(266)}
+2023-05-25 17:51:50 client ID : [c=1,  hdl:53386824  ]message {CWebsocketDlg.cpp(280)}
+2023-05-25 17:51:50 websocket-Client 入参数据:*********** {CWebsocketDlg.cpp(317)}
+2023-05-25 17:51:50 入参长度： 38 {CWebsocketDlg.cpp(321)}
+2023-05-25 17:51:50 {"interfaceId":"100002","command":"1"} {CWebsocketDlg.cpp(324)}
+2023-05-25 17:51:50 websocket-Client 入参数据:打印完成*********** {CWebsocketDlg.cpp(325)}
+2023-05-25 17:51:50 return CG:  {CWebsocketDlg.cpp(119)}
+2023-05-25 17:52:43 cert~~end {CWebsocketDlg.cpp(914)}
+2023-05-25 17:52:43 pMyWebsocketDlg - end {CWebsocket.cpp(145)}
+2023-05-25 17:52:58 /*----------------------------InitInstance-WebsocketApp---------------------------*/ {CWebsocket.cpp(129)}
+2023-05-25 17:52:58 pMyWebsocketDlg - begin {CWebsocket.cpp(133)}
+2023-05-25 17:52:58 void CwebserverDlg::KMeansSegment()-begin {CWebsocketDlg.cpp(226)}
+2023-05-25 17:53:00 cert~开始 {CWebsocketDlg.cpp(845)}
+2023-05-25 17:53:02 cert~~end {CWebsocketDlg.cpp(914)}
+2023-05-25 17:53:03 pMyWebsocketDlg - end {CWebsocket.cpp(145)}
+2023-05-25 17:53:04 /*----------------------------InitInstance-WebsocketApp---------------------------*/ {CWebsocket.cpp(129)}
+2023-05-25 17:53:04 pMyWebsocketDlg - begin {CWebsocket.cpp(133)}
+2023-05-25 17:53:04 void CwebserverDlg::KMeansSegment()-begin {CWebsocketDlg.cpp(226)}
+2023-05-25 17:53:05 cert~开始 {CWebsocketDlg.cpp(845)}
+2023-05-25 17:53:12 client ID : [c=1,  hdl:49192520  ]open {CWebsocketDlg.cpp(280)}
+2023-05-25 17:53:12 open  1  hdl:49192520 {CWebsocketDlg.cpp(84)}
+2023-05-25 17:53:12 message {CWebsocketDlg.cpp(266)}
+2023-05-25 17:53:13 client ID : [c=1,  hdl:49192520  ]message {CWebsocketDlg.cpp(280)}
+2023-05-25 17:53:13 websocket-Client 入参数据:*********** {CWebsocketDlg.cpp(317)}
+2023-05-25 17:53:13 入参长度： 38 {CWebsocketDlg.cpp(321)}
+2023-05-25 17:53:13 {"interfaceId":"100002","command":"1"} {CWebsocketDlg.cpp(324)}
+2023-05-25 17:53:13 websocket-Client 入参数据:打印完成*********** {CWebsocketDlg.cpp(325)}
+2023-05-25 17:53:13 return CG:  {CWebsocketDlg.cpp(119)}
+2023-05-25 17:53:59 cert~~end {CWebsocketDlg.cpp(914)}
+2023-05-25 17:53:59 pMyWebsocketDlg - end {CWebsocket.cpp(145)}
+2023-05-25 17:54:03 /*----------------------------InitInstance-WebsocketApp---------------------------*/ {CWebsocket.cpp(129)}
+2023-05-25 17:54:03 pMyWebsocketDlg - begin {CWebsocket.cpp(133)}
+2023-05-25 17:54:03 void CwebserverDlg::KMeansSegment()-begin {CWebsocketDlg.cpp(226)}
+2023-05-25 17:54:04 cert~开始 {CWebsocketDlg.cpp(845)}
+2023-05-25 17:54:11 client ID : [c=1,  hdl:57974344  ]open {CWebsocketDlg.cpp(280)}
+2023-05-25 17:54:11 open  1  hdl:57974344 {CWebsocketDlg.cpp(84)}
+2023-05-25 17:54:11 message {CWebsocketDlg.cpp(266)}
+2023-05-25 17:54:11 client ID : [c=1,  hdl:57974344  ]message {CWebsocketDlg.cpp(280)}
+2023-05-25 17:54:11 websocket-Client 入参数据:*********** {CWebsocketDlg.cpp(317)}
+2023-05-25 17:54:12 入参长度： 38 {CWebsocketDlg.cpp(321)}
+2023-05-25 17:54:12 {"interfaceId":"100002","command":"1"} {CWebsocketDlg.cpp(324)}
+2023-05-25 17:54:12 websocket-Client 入参数据:打印完成*********** {CWebsocketDlg.cpp(325)}
+2023-05-25 17:54:12 return CG:  {CWebsocketDlg.cpp(119)}
+2023-05-25 17:55:06 close~1 {CWebsocketDlg.cpp(273)}
+2023-05-25 17:55:06 close~2 {CWebsocketDlg.cpp(276)}
+2023-05-25 17:55:06 client ID : [c=0,  hdl:57974344  ]close {CWebsocketDlg.cpp(280)}
+2023-05-25 17:55:06 close  0  hdl:57974344 {CWebsocketDlg.cpp(95)}
+2023-05-25 17:55:07 client ID : [c=1,  hdl:79310448  ]open {CWebsocketDlg.cpp(280)}
+2023-05-25 17:55:07 open  1  hdl:79310448 {CWebsocketDlg.cpp(84)}
+2023-05-25 17:55:07 message {CWebsocketDlg.cpp(266)}
+2023-05-25 17:55:07 client ID : [c=1,  hdl:79310448  ]message {CWebsocketDlg.cpp(280)}
+2023-05-25 17:55:07 websocket-Client 入参数据:*********** {CWebsocketDlg.cpp(317)}
+2023-05-25 17:55:07 入参长度： 38 {CWebsocketDlg.cpp(321)}
+2023-05-25 17:55:07 {"interfaceId":"100002","command":"1"} {CWebsocketDlg.cpp(324)}
+2023-05-25 17:55:07 websocket-Client 入参数据:打印完成*********** {CWebsocketDlg.cpp(325)}
+2023-05-25 17:55:07 return CG:  {CWebsocketDlg.cpp(119)}
+2023-05-25 17:55:59 close~1 {CWebsocketDlg.cpp(273)}
+2023-05-25 17:55:59 close~2 {CWebsocketDlg.cpp(276)}
+2023-05-25 17:55:59 client ID : [c=0,  hdl:79310448  ]close {CWebsocketDlg.cpp(280)}
+2023-05-25 17:55:59 close  0  hdl:79310448 {CWebsocketDlg.cpp(95)}
+2023-05-25 17:55:59 client ID : [c=1,  hdl:113980400  ]open {CWebsocketDlg.cpp(280)}
+2023-05-25 17:55:59 open  1  hdl:113980400 {CWebsocketDlg.cpp(84)}
+2023-05-25 17:55:59 message {CWebsocketDlg.cpp(266)}
+2023-05-25 17:55:59 client ID : [c=1,  hdl:113980400  ]message {CWebsocketDlg.cpp(280)}
+2023-05-25 17:55:59 websocket-Client 入参数据:*********** {CWebsocketDlg.cpp(317)}
+2023-05-25 17:55:59 入参长度： 38 {CWebsocketDlg.cpp(321)}
+2023-05-25 17:55:59 {"interfaceId":"100002","command":"1"} {CWebsocketDlg.cpp(324)}
+2023-05-25 17:55:59 websocket-Client 入参数据:打印完成*********** {CWebsocketDlg.cpp(325)}
+2023-05-25 17:55:59 return CG:  {CWebsocketDlg.cpp(119)}
+2023-05-25 17:56:11 cert~~end {CWebsocketDlg.cpp(914)}
+2023-05-25 17:56:11 pMyWebsocketDlg - end {CWebsocket.cpp(145)}
+2023-05-25 17:56:15 /*----------------------------InitInstance-WebsocketApp---------------------------*/ {CWebsocket.cpp(129)}
+2023-05-25 17:56:15 pMyWebsocketDlg - begin {CWebsocket.cpp(133)}
+2023-05-25 17:56:15 void CwebserverDlg::KMeansSegment()-begin {CWebsocketDlg.cpp(226)}
+2023-05-25 17:56:16 cert~开始 {CWebsocketDlg.cpp(845)}
+2023-05-25 17:56:22 client ID : [c=1,  hdl:57515592  ]open {CWebsocketDlg.cpp(280)}
+2023-05-25 17:56:22 open  1  hdl:57515592 {CWebsocketDlg.cpp(84)}
+2023-05-25 17:56:22 message {CWebsocketDlg.cpp(266)}
+2023-05-25 17:56:22 client ID : [c=1,  hdl:57515592  ]message {CWebsocketDlg.cpp(280)}
+2023-05-25 17:56:22 websocket-Client 入参数据:*********** {CWebsocketDlg.cpp(317)}
+2023-05-25 17:56:22 入参长度： 38 {CWebsocketDlg.cpp(321)}
+2023-05-25 17:56:22 {"interfaceId":"100002","command":"1"} {CWebsocketDlg.cpp(324)}
+2023-05-25 17:56:22 websocket-Client 入参数据:打印完成*********** {CWebsocketDlg.cpp(325)}
+2023-05-25 17:56:22 return CG:  {CWebsocketDlg.cpp(119)}
+2023-05-25 17:56:46 close~1 {CWebsocketDlg.cpp(273)}
+2023-05-25 17:56:46 close~2 {CWebsocketDlg.cpp(276)}
+2023-05-25 17:56:46 client ID : [c=0,  hdl:57515592  ]close {CWebsocketDlg.cpp(280)}
+2023-05-25 17:56:46 close  0  hdl:57515592 {CWebsocketDlg.cpp(95)}
+2023-05-25 17:56:46 client ID : [c=1,  hdl:78130984  ]open {CWebsocketDlg.cpp(280)}
+2023-05-25 17:56:46 open  1  hdl:78130984 {CWebsocketDlg.cpp(84)}
+2023-05-25 17:56:46 message {CWebsocketDlg.cpp(266)}
+2023-05-25 17:56:46 client ID : [c=1,  hdl:78130984  ]message {CWebsocketDlg.cpp(280)}
+2023-05-25 17:56:46 websocket-Client 入参数据:*********** {CWebsocketDlg.cpp(317)}
+2023-05-25 17:56:46 入参长度： 38 {CWebsocketDlg.cpp(321)}
+2023-05-25 17:56:46 {"interfaceId":"100002","command":"1"} {CWebsocketDlg.cpp(324)}
+2023-05-25 17:56:46 websocket-Client 入参数据:打印完成*********** {CWebsocketDlg.cpp(325)}
+2023-05-25 17:56:46 return CG:  {CWebsocketDlg.cpp(119)}
+2023-05-25 17:56:56 close~1 {CWebsocketDlg.cpp(273)}
+2023-05-25 17:56:56 close~2 {CWebsocketDlg.cpp(276)}
+2023-05-25 17:56:56 client ID : [c=0,  hdl:78130984  ]close {CWebsocketDlg.cpp(280)}
+2023-05-25 17:56:56 close  0  hdl:78130984 {CWebsocketDlg.cpp(95)}
+2023-05-25 17:56:57 client ID : [c=1,  hdl:78697120  ]open {CWebsocketDlg.cpp(280)}
+2023-05-25 17:56:57 open  1  hdl:78697120 {CWebsocketDlg.cpp(84)}
+2023-05-25 17:56:57 message {CWebsocketDlg.cpp(266)}
+2023-05-25 17:56:57 client ID : [c=1,  hdl:78697120  ]message {CWebsocketDlg.cpp(280)}
+2023-05-25 17:56:57 websocket-Client 入参数据:*********** {CWebsocketDlg.cpp(317)}
+2023-05-25 17:56:57 入参长度： 38 {CWebsocketDlg.cpp(321)}
+2023-05-25 17:56:57 {"interfaceId":"100002","command":"1"} {CWebsocketDlg.cpp(324)}
+2023-05-25 17:56:57 websocket-Client 入参数据:打印完成*********** {CWebsocketDlg.cpp(325)}
+2023-05-25 17:56:57 return CG:  {CWebsocketDlg.cpp(119)}
+2023-05-25 17:57:35 close~1 {CWebsocketDlg.cpp(273)}
+2023-05-25 17:57:36 close~2 {CWebsocketDlg.cpp(276)}
+2023-05-25 17:57:36 client ID : [c=0,  hdl:78697120  ]close {CWebsocketDlg.cpp(280)}
+2023-05-25 17:57:36 close  0  hdl:78697120 {CWebsocketDlg.cpp(95)}
+2023-05-25 17:57:36 client ID : [c=1,  hdl:116844928  ]open {CWebsocketDlg.cpp(280)}
+2023-05-25 17:57:36 open  1  hdl:116844928 {CWebsocketDlg.cpp(84)}
+2023-05-25 17:57:36 message {CWebsocketDlg.cpp(266)}
+2023-05-25 17:57:36 client ID : [c=1,  hdl:116844928  ]message {CWebsocketDlg.cpp(280)}
+2023-05-25 17:57:36 websocket-Client 入参数据:*********** {CWebsocketDlg.cpp(317)}
+2023-05-25 17:57:36 入参长度： 38 {CWebsocketDlg.cpp(321)}
+2023-05-25 17:57:36 {"interfaceId":"100002","command":"1"} {CWebsocketDlg.cpp(324)}
+2023-05-25 17:57:36 websocket-Client 入参数据:打印完成*********** {CWebsocketDlg.cpp(325)}
+2023-05-25 17:57:36 return CG:  {CWebsocketDlg.cpp(119)}
+2023-05-25 17:57:36 client ID : [c=2,  hdl:117586432  ]open {CWebsocketDlg.cpp(280)}
+2023-05-25 17:57:36 open  2  hdl:117586432 {CWebsocketDlg.cpp(84)}
+2023-05-25 17:57:36 close~1 {CWebsocketDlg.cpp(273)}
+2023-05-25 17:57:36 close~2 {CWebsocketDlg.cpp(276)}
+2023-05-25 17:57:36 client ID : [c=1,  hdl:116844928  ]close {CWebsocketDlg.cpp(280)}
+2023-05-25 17:57:36 close  1  hdl:116844928 {CWebsocketDlg.cpp(95)}
+2023-05-25 17:57:36 message {CWebsocketDlg.cpp(266)}
+2023-05-25 17:57:36 client ID : [c=1,  hdl:117586432  ]message {CWebsocketDlg.cpp(280)}
+2023-05-25 17:57:36 websocket-Client 入参数据:*********** {CWebsocketDlg.cpp(317)}
+2023-05-25 17:57:36 入参长度： 38 {CWebsocketDlg.cpp(321)}
+2023-05-25 17:57:36 {"interfaceId":"100002","command":"1"} {CWebsocketDlg.cpp(324)}
+2023-05-25 17:57:36 websocket-Client 入参数据:打印完成*********** {CWebsocketDlg.cpp(325)}
+2023-05-25 17:57:36 return CG:  {CWebsocketDlg.cpp(119)}
+2023-05-25 17:57:39 close~1 {CWebsocketDlg.cpp(273)}
+2023-05-25 17:57:39 close~2 {CWebsocketDlg.cpp(276)}
+2023-05-25 17:57:39 client ID : [c=0,  hdl:117586432  ]close {CWebsocketDlg.cpp(280)}
+2023-05-25 17:57:39 close  0  hdl:117586432 {CWebsocketDlg.cpp(95)}
+2023-05-25 17:57:49 /*----------------------------InitInstance-WebsocketApp---------------------------*/ {CWebsocket.cpp(129)}
+2023-05-25 17:57:49 pMyWebsocketDlg - begin {CWebsocket.cpp(133)}
+2023-05-25 17:57:49 void CwebserverDlg::KMeansSegment()-begin {CWebsocketDlg.cpp(226)}
+2023-05-25 17:57:50 client ID : [c=1,  hdl:59350704  ]open {CWebsocketDlg.cpp(280)}
+2023-05-25 17:57:50 open  1  hdl:59350704 {CWebsocketDlg.cpp(84)}
+2023-05-25 17:57:50 message {CWebsocketDlg.cpp(266)}
+2023-05-25 17:57:50 client ID : [c=1,  hdl:59350704  ]message {CWebsocketDlg.cpp(280)}
+2023-05-25 17:57:50 websocket-Client 入参数据:*********** {CWebsocketDlg.cpp(317)}
+2023-05-25 17:57:50 入参长度： 38 {CWebsocketDlg.cpp(321)}
+2023-05-25 17:57:50 {"interfaceId":"100002","command":"1"} {CWebsocketDlg.cpp(324)}
+2023-05-25 17:57:50 websocket-Client 入参数据:打印完成*********** {CWebsocketDlg.cpp(325)}
+2023-05-25 17:57:50 return CG:  {CWebsocketDlg.cpp(119)}
+2023-05-25 17:57:50 cert~开始 {CWebsocketDlg.cpp(845)}
+2023-05-25 17:59:11 close~1 {CWebsocketDlg.cpp(273)}
+2023-05-25 17:59:11 close~2 {CWebsocketDlg.cpp(276)}
+2023-05-25 17:59:11 client ID : [c=0,  hdl:59350704  ]close {CWebsocketDlg.cpp(280)}
+2023-05-25 17:59:11 close  0  hdl:59350704 {CWebsocketDlg.cpp(95)}
+2023-05-25 17:59:11 client ID : [c=1,  hdl:79245112  ]open {CWebsocketDlg.cpp(280)}
+2023-05-25 17:59:11 open  1  hdl:79245112 {CWebsocketDlg.cpp(84)}
+2023-05-25 17:59:11 message {CWebsocketDlg.cpp(266)}
+2023-05-25 17:59:11 client ID : [c=1,  hdl:79245112  ]message {CWebsocketDlg.cpp(280)}
+2023-05-25 17:59:11 websocket-Client 入参数据:*********** {CWebsocketDlg.cpp(317)}
+2023-05-25 17:59:11 入参长度： 38 {CWebsocketDlg.cpp(321)}
+2023-05-25 17:59:11 {"interfaceId":"100002","command":"1"} {CWebsocketDlg.cpp(324)}
+2023-05-25 17:59:11 websocket-Client 入参数据:打印完成*********** {CWebsocketDlg.cpp(325)}
+2023-05-25 17:59:11 return CG:  {CWebsocketDlg.cpp(119)}
+2023-05-25 17:59:28 打开设备失败(C)！ {CWebsocketDlg.cpp(868)}
+2023-05-25 17:59:28 cert~~end {CWebsocketDlg.cpp(914)}
+2023-05-25 17:59:28 pMyWebsocketDlg - end {CWebsocket.cpp(145)}
+2023-05-25 18:01:40 /*----------------------------InitInstance-WebsocketApp---------------------------*/ {CWebsocket.cpp(129)}
+2023-05-25 18:01:40 pMyWebsocketDlg - begin {CWebsocket.cpp(133)}
+2023-05-25 18:01:40 void CwebserverDlg::KMeansSegment()-begin {CWebsocketDlg.cpp(226)}
+2023-05-25 18:01:41 cert~开始 {CWebsocketDlg.cpp(845)}
+2023-05-25 18:01:45 client ID : [c=1,  hdl:56467016  ]open {CWebsocketDlg.cpp(280)}
+2023-05-25 18:01:45 open  1  hdl:56467016 {CWebsocketDlg.cpp(84)}
+2023-05-25 18:01:45 message {CWebsocketDlg.cpp(266)}
+2023-05-25 18:01:45 client ID : [c=1,  hdl:56467016  ]message {CWebsocketDlg.cpp(280)}
+2023-05-25 18:01:45 websocket-Client 入参数据:*********** {CWebsocketDlg.cpp(317)}
+2023-05-25 18:01:45 入参长度： 38 {CWebsocketDlg.cpp(321)}
+2023-05-25 18:01:45 {"interfaceId":"100002","command":"1"} {CWebsocketDlg.cpp(324)}
+2023-05-25 18:01:45 websocket-Client 入参数据:打印完成*********** {CWebsocketDlg.cpp(325)}
+2023-05-25 18:01:45 return CG:  {CWebsocketDlg.cpp(119)}
+2023-05-25 18:03:41 close~1 {CWebsocketDlg.cpp(273)}
+2023-05-25 18:03:41 close~2 {CWebsocketDlg.cpp(276)}
+2023-05-25 18:03:41 client ID : [c=0,  hdl:56467016  ]close {CWebsocketDlg.cpp(280)}
+2023-05-25 18:03:41 close  0  hdl:56467016 {CWebsocketDlg.cpp(95)}
+2023-05-25 18:03:43 client ID : [c=1,  hdl:79114024  ]open {CWebsocketDlg.cpp(280)}
+2023-05-25 18:03:43 open  1  hdl:79114024 {CWebsocketDlg.cpp(84)}
+2023-05-25 18:03:43 message {CWebsocketDlg.cpp(266)}
+2023-05-25 18:03:43 client ID : [c=1,  hdl:79114024  ]message {CWebsocketDlg.cpp(280)}
+2023-05-25 18:03:43 websocket-Client 入参数据:*********** {CWebsocketDlg.cpp(317)}
+2023-05-25 18:03:43 入参长度： 38 {CWebsocketDlg.cpp(321)}
+2023-05-25 18:03:43 {"interfaceId":"100002","command":"1"} {CWebsocketDlg.cpp(324)}
+2023-05-25 18:03:43 websocket-Client 入参数据:打印完成*********** {CWebsocketDlg.cpp(325)}
+2023-05-25 18:03:43 return CG:  {CWebsocketDlg.cpp(119)}
+2023-05-25 18:04:19 close~1 {CWebsocketDlg.cpp(273)}
+2023-05-25 18:04:19 close~2 {CWebsocketDlg.cpp(276)}
+2023-05-25 18:04:19 client ID : [c=0,  hdl:79114024  ]close {CWebsocketDlg.cpp(280)}
+2023-05-25 18:04:19 close  0  hdl:79114024 {CWebsocketDlg.cpp(95)}
+2023-05-25 18:04:19 client ID : [c=1,  hdl:135386968  ]open {CWebsocketDlg.cpp(280)}
+2023-05-25 18:04:19 open  1  hdl:135386968 {CWebsocketDlg.cpp(84)}
+2023-05-25 18:04:19 message {CWebsocketDlg.cpp(266)}
+2023-05-25 18:04:19 client ID : [c=1,  hdl:135386968  ]message {CWebsocketDlg.cpp(280)}
+2023-05-25 18:04:19 websocket-Client 入参数据:*********** {CWebsocketDlg.cpp(317)}
+2023-05-25 18:04:19 入参长度： 38 {CWebsocketDlg.cpp(321)}
+2023-05-25 18:04:19 {"interfaceId":"100002","command":"1"} {CWebsocketDlg.cpp(324)}
+2023-05-25 18:04:19 websocket-Client 入参数据:打印完成*********** {CWebsocketDlg.cpp(325)}
+2023-05-25 18:04:19 return CG:  {CWebsocketDlg.cpp(119)}
+2023-05-25 18:04:24 close~1 {CWebsocketDlg.cpp(273)}
+2023-05-25 18:04:24 close~2 {CWebsocketDlg.cpp(276)}
+2023-05-25 18:04:24 client ID : [c=0,  hdl:135386968  ]close {CWebsocketDlg.cpp(280)}
+2023-05-25 18:04:24 close  0  hdl:135386968 {CWebsocketDlg.cpp(95)}
+2023-05-25 18:04:31 /*----------------------------InitInstance-WebsocketApp---------------------------*/ {CWebsocket.cpp(129)}
+2023-05-25 18:04:31 pMyWebsocketDlg - begin {CWebsocket.cpp(133)}
+2023-05-25 18:04:31 void CwebserverDlg::KMeansSegment()-begin {CWebsocketDlg.cpp(226)}
+2023-05-25 18:04:32 client ID : [c=1,  hdl:51027632  ]open {CWebsocketDlg.cpp(280)}
+2023-05-25 18:04:32 open  1  hdl:51027632 {CWebsocketDlg.cpp(84)}
+2023-05-25 18:04:32 message {CWebsocketDlg.cpp(266)}
+2023-05-25 18:04:32 client ID : [c=1,  hdl:51027632  ]message {CWebsocketDlg.cpp(280)}
+2023-05-25 18:04:32 cert~开始 {CWebsocketDlg.cpp(845)}
+2023-05-25 18:04:32 websocket-Client 入参数据:*********** {CWebsocketDlg.cpp(317)}
+2023-05-25 18:04:32 入参长度： 38 {CWebsocketDlg.cpp(321)}
+2023-05-25 18:04:32 {"interfaceId":"100002","command":"1"} {CWebsocketDlg.cpp(324)}
+2023-05-25 18:04:32 websocket-Client 入参数据:打印完成*********** {CWebsocketDlg.cpp(325)}
+2023-05-25 18:04:32 return CG:  {CWebsocketDlg.cpp(119)}
+2023-05-25 18:04:58 close~1 {CWebsocketDlg.cpp(273)}
+2023-05-25 18:04:58 close~2 {CWebsocketDlg.cpp(276)}
+2023-05-25 18:04:58 client ID : [c=0,  hdl:51027632  ]close {CWebsocketDlg.cpp(280)}
+2023-05-25 18:04:58 close  0  hdl:51027632 {CWebsocketDlg.cpp(95)}
+2023-05-25 18:04:58 client ID : [c=1,  hdl:75058464  ]open {CWebsocketDlg.cpp(280)}
+2023-05-25 18:04:58 open  1  hdl:75058464 {CWebsocketDlg.cpp(84)}
+2023-05-25 18:04:58 message {CWebsocketDlg.cpp(266)}
+2023-05-25 18:04:58 client ID : [c=1,  hdl:75058464  ]message {CWebsocketDlg.cpp(280)}
+2023-05-25 18:04:58 websocket-Client 入参数据:*********** {CWebsocketDlg.cpp(317)}
+2023-05-25 18:04:58 入参长度： 38 {CWebsocketDlg.cpp(321)}
+2023-05-25 18:04:58 {"interfaceId":"100002","command":"1"} {CWebsocketDlg.cpp(324)}
+2023-05-25 18:04:58 websocket-Client 入参数据:打印完成*********** {CWebsocketDlg.cpp(325)}
+2023-05-25 18:04:58 return CG:  {CWebsocketDlg.cpp(119)}
+2023-05-25 18:04:59 close~1 {CWebsocketDlg.cpp(273)}
+2023-05-25 18:04:59 close~2 {CWebsocketDlg.cpp(276)}
+2023-05-25 18:04:59 client ID : [c=0,  hdl:75058464  ]close {CWebsocketDlg.cpp(280)}
+2023-05-25 18:04:59 close  0  hdl:75058464 {CWebsocketDlg.cpp(95)}
+2023-05-25 18:05:02 client ID : [c=1,  hdl:132247040  ]open {CWebsocketDlg.cpp(280)}
+2023-05-25 18:05:02 open  1  hdl:132247040 {CWebsocketDlg.cpp(84)}
+2023-05-25 18:05:14 /*----------------------------InitInstance-WebsocketApp---------------------------*/ {CWebsocket.cpp(129)}
+2023-05-25 18:05:14 pMyWebsocketDlg - begin {CWebsocket.cpp(133)}
+2023-05-25 18:05:14 void CwebserverDlg::KMeansSegment()-begin {CWebsocketDlg.cpp(226)}
+2023-05-25 18:05:15 cert~开始 {CWebsocketDlg.cpp(845)}
+2023-05-25 18:05:21 client ID : [c=1,  hdl:51027528  ]open {CWebsocketDlg.cpp(280)}
+2023-05-25 18:05:21 open  1  hdl:51027528 {CWebsocketDlg.cpp(84)}
+2023-05-25 18:05:21 message {CWebsocketDlg.cpp(266)}
+2023-05-25 18:05:21 client ID : [c=1,  hdl:51027528  ]message {CWebsocketDlg.cpp(280)}
+2023-05-25 18:05:21 websocket-Client 入参数据:*********** {CWebsocketDlg.cpp(317)}
+2023-05-25 18:05:21 入参长度： 38 {CWebsocketDlg.cpp(321)}
+2023-05-25 18:05:21 {"interfaceId":"100002","command":"1"} {CWebsocketDlg.cpp(324)}
+2023-05-25 18:05:21 websocket-Client 入参数据:打印完成*********** {CWebsocketDlg.cpp(325)}
+2023-05-25 18:05:21 return CG:  {CWebsocketDlg.cpp(119)}
+2023-05-25 18:10:05 close~1 {CWebsocketDlg.cpp(273)}
+2023-05-25 18:10:05 close~2 {CWebsocketDlg.cpp(276)}
+2023-05-25 18:10:05 client ID : [c=0,  hdl:51027528  ]close {CWebsocketDlg.cpp(280)}
+2023-05-25 18:10:05 close  0  hdl:51027528 {CWebsocketDlg.cpp(95)}
+2023-05-25 18:10:07 client ID : [c=1,  hdl:71970600  ]open {CWebsocketDlg.cpp(280)}
+2023-05-25 18:10:07 open  1  hdl:71970600 {CWebsocketDlg.cpp(84)}
+2023-05-25 18:10:07 message {CWebsocketDlg.cpp(266)}
+2023-05-25 18:10:07 client ID : [c=1,  hdl:71970600  ]message {CWebsocketDlg.cpp(280)}
+2023-05-25 18:10:07 websocket-Client 入参数据:*********** {CWebsocketDlg.cpp(317)}
+2023-05-25 18:10:07 入参长度： 38 {CWebsocketDlg.cpp(321)}
+2023-05-25 18:10:07 {"interfaceId":"100002","command":"1"} {CWebsocketDlg.cpp(324)}
+2023-05-25 18:10:07 websocket-Client 入参数据:打印完成*********** {CWebsocketDlg.cpp(325)}
+2023-05-25 18:10:07 return CG:  {CWebsocketDlg.cpp(119)}
+2023-05-25 18:13:08 close~1 {CWebsocketDlg.cpp(273)}
+2023-05-25 18:13:08 close~2 {CWebsocketDlg.cpp(276)}
+2023-05-25 18:13:08 client ID : [c=0,  hdl:71970600  ]close {CWebsocketDlg.cpp(280)}
+2023-05-25 18:13:08 close  0  hdl:71970600 {CWebsocketDlg.cpp(95)}
+2023-05-25 18:13:33 client ID : [c=1,  hdl:132596064  ]open {CWebsocketDlg.cpp(280)}
+2023-05-25 18:13:33 open  1  hdl:132596064 {CWebsocketDlg.cpp(84)}
+2023-05-25 18:13:33 message {CWebsocketDlg.cpp(266)}
+2023-05-25 18:13:33 client ID : [c=1,  hdl:132596064  ]message {CWebsocketDlg.cpp(280)}
+2023-05-25 18:13:33 websocket-Client 入参数据:*********** {CWebsocketDlg.cpp(317)}
+2023-05-25 18:13:33 入参长度： 38 {CWebsocketDlg.cpp(321)}
+2023-05-25 18:13:33 {"interfaceId":"100002","command":"1"} {CWebsocketDlg.cpp(324)}
+2023-05-25 18:13:33 websocket-Client 入参数据:打印完成*********** {CWebsocketDlg.cpp(325)}
+2023-05-25 18:13:33 return CG:  {CWebsocketDlg.cpp(119)}
+2023-05-25 18:14:30 close~1 {CWebsocketDlg.cpp(273)}
+2023-05-25 18:14:30 close~2 {CWebsocketDlg.cpp(276)}
+2023-05-25 18:14:30 client ID : [c=0,  hdl:132596064  ]close {CWebsocketDlg.cpp(280)}
+2023-05-25 18:14:30 close  0  hdl:132596064 {CWebsocketDlg.cpp(95)}
+2023-05-25 18:15:08 /*----------------------------InitInstance-WebsocketApp---------------------------*/ {CWebsocket.cpp(129)}
+2023-05-25 18:15:08 pMyWebsocketDlg - begin {CWebsocket.cpp(133)}
+2023-05-25 18:15:08 void CwebserverDlg::KMeansSegment()-begin {CWebsocketDlg.cpp(226)}
+2023-05-25 18:15:09 cert~开始 {CWebsocketDlg.cpp(845)}
+2023-05-25 18:15:23 /*----------------------------InitInstance-WebsocketApp---------------------------*/ {CWebsocket.cpp(129)}
+2023-05-25 18:15:23 pMyWebsocketDlg - begin {CWebsocket.cpp(133)}
+2023-05-25 18:15:23 void CwebserverDlg::KMeansSegment()-begin {CWebsocketDlg.cpp(226)}
+2023-05-25 18:15:23 cert~开始 {CWebsocketDlg.cpp(845)}
+2023-05-25 18:15:32 client ID : [c=1,  hdl:58826312  ]open {CWebsocketDlg.cpp(280)}
+2023-05-25 18:15:32 open  1  hdl:58826312 {CWebsocketDlg.cpp(84)}
+2023-05-25 18:15:32 message {CWebsocketDlg.cpp(266)}
+2023-05-25 18:15:32 client ID : [c=1,  hdl:58826312  ]message {CWebsocketDlg.cpp(280)}
+2023-05-25 18:15:32 websocket-Client 入参数据:*********** {CWebsocketDlg.cpp(317)}
+2023-05-25 18:15:32 入参长度： 38 {CWebsocketDlg.cpp(321)}
+2023-05-25 18:15:32 {"interfaceId":"100002","command":"1"} {CWebsocketDlg.cpp(324)}
+2023-05-25 18:15:32 websocket-Client 入参数据:打印完成*********** {CWebsocketDlg.cpp(325)}
+2023-05-25 18:15:32 return CG:  {CWebsocketDlg.cpp(119)}
+2023-05-25 18:15:59 close~1 {CWebsocketDlg.cpp(273)}
+2023-05-25 18:15:59 close~2 {CWebsocketDlg.cpp(276)}
+2023-05-25 18:15:59 client ID : [c=0,  hdl:58826312  ]close {CWebsocketDlg.cpp(280)}
+2023-05-25 18:15:59 close  0  hdl:58826312 {CWebsocketDlg.cpp(95)}
+2023-05-25 18:16:00 client ID : [c=1,  hdl:78130984  ]open {CWebsocketDlg.cpp(280)}
+2023-05-25 18:16:00 open  1  hdl:78130984 {CWebsocketDlg.cpp(84)}
+2023-05-25 18:16:00 message {CWebsocketDlg.cpp(266)}
+2023-05-25 18:16:00 client ID : [c=1,  hdl:78130984  ]message {CWebsocketDlg.cpp(280)}
+2023-05-25 18:16:00 websocket-Client 入参数据:*********** {CWebsocketDlg.cpp(317)}
+2023-05-25 18:16:00 入参长度： 38 {CWebsocketDlg.cpp(321)}
+2023-05-25 18:16:00 {"interfaceId":"100002","command":"1"} {CWebsocketDlg.cpp(324)}
+2023-05-25 18:16:01 websocket-Client 入参数据:打印完成*********** {CWebsocketDlg.cpp(325)}
+2023-05-25 18:16:01 return CG:  {CWebsocketDlg.cpp(119)}
+2023-05-25 18:16:34 close~1 {CWebsocketDlg.cpp(273)}
+2023-05-25 18:16:34 close~2 {CWebsocketDlg.cpp(276)}
+2023-05-25 18:16:34 client ID : [c=0,  hdl:78130984  ]close {CWebsocketDlg.cpp(280)}
+2023-05-25 18:16:34 close  0  hdl:78130984 {CWebsocketDlg.cpp(95)}
+2023-05-25 18:16:35 client ID : [c=1,  hdl:128792328  ]open {CWebsocketDlg.cpp(280)}
+2023-05-25 18:16:35 open  1  hdl:128792328 {CWebsocketDlg.cpp(84)}
+2023-05-25 18:16:35 message {CWebsocketDlg.cpp(266)}
+2023-05-25 18:16:36 client ID : [c=1,  hdl:128792328  ]message {CWebsocketDlg.cpp(280)}
+2023-05-25 18:16:36 websocket-Client 入参数据:*********** {CWebsocketDlg.cpp(317)}
+2023-05-25 18:16:36 入参长度： 38 {CWebsocketDlg.cpp(321)}
+2023-05-25 18:16:36 {"interfaceId":"100002","command":"1"} {CWebsocketDlg.cpp(324)}
+2023-05-25 18:16:36 websocket-Client 入参数据:打印完成*********** {CWebsocketDlg.cpp(325)}
+2023-05-25 18:16:36 return CG:  {CWebsocketDlg.cpp(119)}
+2023-05-25 18:17:59 close~1 {CWebsocketDlg.cpp(273)}
+2023-05-25 18:17:59 close~2 {CWebsocketDlg.cpp(276)}
+2023-05-25 18:17:59 client ID : [c=0,  hdl:128792328  ]close {CWebsocketDlg.cpp(280)}
+2023-05-25 18:17:59 close  0  hdl:128792328 {CWebsocketDlg.cpp(95)}
+2023-05-25 18:18:07 client ID : [c=1,  hdl:133340272  ]open {CWebsocketDlg.cpp(280)}
+2023-05-25 18:18:07 open  1  hdl:133340272 {CWebsocketDlg.cpp(84)}
+2023-05-25 18:18:07 message {CWebsocketDlg.cpp(266)}
+2023-05-25 18:18:07 client ID : [c=1,  hdl:133340272  ]message {CWebsocketDlg.cpp(280)}
+2023-05-25 18:18:07 websocket-Client 入参数据:*********** {CWebsocketDlg.cpp(317)}
+2023-05-25 18:18:07 入参长度： 38 {CWebsocketDlg.cpp(321)}
+2023-05-25 18:18:07 {"interfaceId":"100002","command":"1"} {CWebsocketDlg.cpp(324)}
+2023-05-25 18:18:07 websocket-Client 入参数据:打印完成*********** {CWebsocketDlg.cpp(325)}
+2023-05-25 18:18:07 return CG:  {CWebsocketDlg.cpp(119)}
+2023-05-25 18:18:09 close~1 {CWebsocketDlg.cpp(273)}
+2023-05-25 18:18:09 close~2 {CWebsocketDlg.cpp(276)}
+2023-05-25 18:18:09 client ID : [c=0,  hdl:133340272  ]close {CWebsocketDlg.cpp(280)}
+2023-05-25 18:18:09 close  0  hdl:133340272 {CWebsocketDlg.cpp(95)}
+2023-05-25 18:19:00 client ID : [c=1,  hdl:137160312  ]open {CWebsocketDlg.cpp(280)}
+2023-05-25 18:19:00 open  1  hdl:137160312 {CWebsocketDlg.cpp(84)}
+2023-05-25 18:19:00 message {CWebsocketDlg.cpp(266)}
+2023-05-25 18:19:01 client ID : [c=1,  hdl:137160312  ]message {CWebsocketDlg.cpp(280)}
+2023-05-25 18:19:01 websocket-Client 入参数据:*********** {CWebsocketDlg.cpp(317)}
+2023-05-25 18:19:01 入参长度： 38 {CWebsocketDlg.cpp(321)}
+2023-05-25 18:19:01 {"interfaceId":"100002","command":"1"} {CWebsocketDlg.cpp(324)}
+2023-05-25 18:19:01 websocket-Client 入参数据:打印完成*********** {CWebsocketDlg.cpp(325)}
+2023-05-25 18:19:01 return CG:  {CWebsocketDlg.cpp(119)}
+2023-05-25 18:19:10 close~1 {CWebsocketDlg.cpp(273)}
+2023-05-25 18:19:10 close~2 {CWebsocketDlg.cpp(276)}
+2023-05-25 18:19:10 client ID : [c=0,  hdl:137160312  ]close {CWebsocketDlg.cpp(280)}
+2023-05-25 18:19:10 close  0  hdl:137160312 {CWebsocketDlg.cpp(95)}
+2023-05-25 18:19:18 client ID : [c=1,  hdl:137223416  ]open {CWebsocketDlg.cpp(280)}
+2023-05-25 18:19:19 open  1  hdl:137223416 {CWebsocketDlg.cpp(84)}
+2023-05-25 18:19:19 message {CWebsocketDlg.cpp(266)}
+2023-05-25 18:19:19 client ID : [c=1,  hdl:137223416  ]message {CWebsocketDlg.cpp(280)}
+2023-05-25 18:19:19 websocket-Client 入参数据:*********** {CWebsocketDlg.cpp(317)}
+2023-05-25 18:19:19 入参长度： 38 {CWebsocketDlg.cpp(321)}
+2023-05-25 18:19:19 {"interfaceId":"100002","command":"1"} {CWebsocketDlg.cpp(324)}
+2023-05-25 18:19:19 websocket-Client 入参数据:打印完成*********** {CWebsocketDlg.cpp(325)}
+2023-05-25 18:19:19 return CG:  {CWebsocketDlg.cpp(119)}
+2023-05-25 18:19:49 close~1 {CWebsocketDlg.cpp(273)}
+2023-05-25 18:19:49 close~2 {CWebsocketDlg.cpp(276)}
+2023-05-25 18:19:49 client ID : [c=0,  hdl:137223416  ]close {CWebsocketDlg.cpp(280)}
+2023-05-25 18:19:49 close  0  hdl:137223416 {CWebsocketDlg.cpp(95)}
+2023-05-25 18:19:56 /*----------------------------InitInstance-WebsocketApp---------------------------*/ {CWebsocket.cpp(129)}
+2023-05-25 18:19:56 pMyWebsocketDlg - begin {CWebsocket.cpp(133)}
+2023-05-25 18:19:56 void CwebserverDlg::KMeansSegment()-begin {CWebsocketDlg.cpp(226)}
+2023-05-25 18:19:57 client ID : [c=1,  hdl:58236592  ]open {CWebsocketDlg.cpp(280)}
+2023-05-25 18:19:57 open  1  hdl:58236592 {CWebsocketDlg.cpp(84)}
+2023-05-25 18:19:57 message {CWebsocketDlg.cpp(266)}
+2023-05-25 18:19:57 client ID : [c=1,  hdl:58236592  ]message {CWebsocketDlg.cpp(280)}
+2023-05-25 18:19:57 websocket-Client 入参数据:*********** {CWebsocketDlg.cpp(317)}
+2023-05-25 18:19:57 入参长度： 38 {CWebsocketDlg.cpp(321)}
+2023-05-25 18:19:57 {"interfaceId":"100002","command":"1"} {CWebsocketDlg.cpp(324)}
+2023-05-25 18:19:57 websocket-Client 入参数据:打印完成*********** {CWebsocketDlg.cpp(325)}
+2023-05-25 18:19:57 return CG:  {CWebsocketDlg.cpp(119)}
+2023-05-25 18:19:57 cert~开始 {CWebsocketDlg.cpp(845)}
+2023-05-25 18:20:24 close~1 {CWebsocketDlg.cpp(273)}
+2023-05-25 18:20:24 close~2 {CWebsocketDlg.cpp(276)}
+2023-05-25 18:20:24 client ID : [c=0,  hdl:58236592  ]close {CWebsocketDlg.cpp(280)}
+2023-05-25 18:20:24 close  0  hdl:58236592 {CWebsocketDlg.cpp(95)}
+2023-05-25 18:20:24 client ID : [c=1,  hdl:78851896  ]open {CWebsocketDlg.cpp(280)}
+2023-05-25 18:20:24 open  1  hdl:78851896 {CWebsocketDlg.cpp(84)}
+2023-05-25 18:20:24 message {CWebsocketDlg.cpp(266)}
+2023-05-25 18:20:24 client ID : [c=1,  hdl:78851896  ]message {CWebsocketDlg.cpp(280)}
+2023-05-25 18:20:24 websocket-Client 入参数据:*********** {CWebsocketDlg.cpp(317)}
+2023-05-25 18:20:24 入参长度： 38 {CWebsocketDlg.cpp(321)}
+2023-05-25 18:20:24 {"interfaceId":"100002","command":"1"} {CWebsocketDlg.cpp(324)}
+2023-05-25 18:20:24 websocket-Client 入参数据:打印完成*********** {CWebsocketDlg.cpp(325)}
+2023-05-25 18:20:24 return CG:  {CWebsocketDlg.cpp(119)}
+2023-05-25 18:20:30 close~1 {CWebsocketDlg.cpp(273)}
+2023-05-25 18:20:30 close~2 {CWebsocketDlg.cpp(276)}
+2023-05-25 18:20:30 client ID : [c=0,  hdl:78851896  ]close {CWebsocketDlg.cpp(280)}
+2023-05-25 18:20:30 close  0  hdl:78851896 {CWebsocketDlg.cpp(95)}
+2023-05-25 18:20:30 client ID : [c=1,  hdl:139210416  ]open {CWebsocketDlg.cpp(280)}
+2023-05-25 18:20:30 open  1  hdl:139210416 {CWebsocketDlg.cpp(84)}
+2023-05-25 18:20:30 message {CWebsocketDlg.cpp(266)}
+2023-05-25 18:20:30 client ID : [c=1,  hdl:139210416  ]message {CWebsocketDlg.cpp(280)}
+2023-05-25 18:20:30 websocket-Client 入参数据:*********** {CWebsocketDlg.cpp(317)}
+2023-05-25 18:20:30 入参长度： 38 {CWebsocketDlg.cpp(321)}
+2023-05-25 18:20:30 {"interfaceId":"100002","command":"1"} {CWebsocketDlg.cpp(324)}
+2023-05-25 18:20:30 websocket-Client 入参数据:打印完成*********** {CWebsocketDlg.cpp(325)}
+2023-05-25 18:20:30 return CG:  {CWebsocketDlg.cpp(119)}
+2023-05-25 18:20:46 cert~~end {CWebsocketDlg.cpp(914)}
+2023-05-25 18:20:47 pMyWebsocketDlg - end {CWebsocket.cpp(145)}
+2023-05-25 19:27:18 /*----------------------------InitInstance-WebsocketApp---------------------------*/ {CWebsocket.cpp(129)}
+2023-05-25 19:27:18 pMyWebsocketDlg - begin {CWebsocket.cpp(133)}
+2023-05-25 19:27:18 void CwebserverDlg::KMeansSegment()-begin {CWebsocketDlg.cpp(226)}
+2023-05-25 19:27:19 cert~开始 {CWebsocketDlg.cpp(845)}
+2023-05-25 19:27:25 client ID : [c=1,  hdl:60989000  ]open {CWebsocketDlg.cpp(280)}
+2023-05-25 19:27:25 open  1  hdl:60989000 {CWebsocketDlg.cpp(84)}
+2023-05-25 19:27:25 message {CWebsocketDlg.cpp(266)}
+2023-05-25 19:27:25 client ID : [c=1,  hdl:60989000  ]message {CWebsocketDlg.cpp(280)}
+2023-05-25 19:27:25 websocket-Client 入参数据:*********** {CWebsocketDlg.cpp(317)}
+2023-05-25 19:27:25 入参长度： 38 {CWebsocketDlg.cpp(321)}
+2023-05-25 19:27:25 {"interfaceId":"100002","command":"1"} {CWebsocketDlg.cpp(324)}
+2023-05-25 19:27:25 websocket-Client 入参数据:打印完成*********** {CWebsocketDlg.cpp(325)}
+2023-05-25 19:27:25 return CG:  {CWebsocketDlg.cpp(119)}
+2023-05-25 19:27:28 close~1 {CWebsocketDlg.cpp(273)}
+2023-05-25 19:27:28 close~2 {CWebsocketDlg.cpp(276)}
+2023-05-25 19:27:28 client ID : [c=0,  hdl:60989000  ]close {CWebsocketDlg.cpp(280)}
+2023-05-25 19:27:28 close  0  hdl:60989000 {CWebsocketDlg.cpp(95)}
+2023-05-25 19:27:28 client ID : [c=1,  hdl:81735464  ]open {CWebsocketDlg.cpp(280)}
+2023-05-25 19:27:28 open  1  hdl:81735464 {CWebsocketDlg.cpp(84)}
+2023-05-25 19:27:28 message {CWebsocketDlg.cpp(266)}
+2023-05-25 19:27:28 client ID : [c=1,  hdl:81735464  ]message {CWebsocketDlg.cpp(280)}
+2023-05-25 19:27:28 websocket-Client 入参数据:*********** {CWebsocketDlg.cpp(317)}
+2023-05-25 19:27:28 入参长度： 38 {CWebsocketDlg.cpp(321)}
+2023-05-25 19:27:28 {"interfaceId":"100002","command":"1"} {CWebsocketDlg.cpp(324)}
+2023-05-25 19:27:28 websocket-Client 入参数据:打印完成*********** {CWebsocketDlg.cpp(325)}
+2023-05-25 19:27:28 return CG:  {CWebsocketDlg.cpp(119)}
+2023-05-25 19:27:35 cert~~end {CWebsocketDlg.cpp(914)}
+2023-05-25 19:27:35 pMyWebsocketDlg - end {CWebsocket.cpp(145)}
+2023-05-25 19:27:36 /*----------------------------InitInstance-WebsocketApp---------------------------*/ {CWebsocket.cpp(129)}
+2023-05-25 19:27:36 pMyWebsocketDlg - begin {CWebsocket.cpp(133)}
+2023-05-25 19:27:36 void CwebserverDlg::KMeansSegment()-begin {CWebsocketDlg.cpp(226)}
+2023-05-25 19:27:37 cert~开始 {CWebsocketDlg.cpp(845)}
+2023-05-25 19:27:46 client ID : [c=1,  hdl:58695240  ]open {CWebsocketDlg.cpp(280)}
+2023-05-25 19:27:46 open  1  hdl:58695240 {CWebsocketDlg.cpp(84)}
+2023-05-25 19:27:46 message {CWebsocketDlg.cpp(266)}
+2023-05-25 19:27:46 client ID : [c=1,  hdl:58695240  ]message {CWebsocketDlg.cpp(280)}
+2023-05-25 19:27:46 websocket-Client 入参数据:*********** {CWebsocketDlg.cpp(317)}
+2023-05-25 19:27:46 入参长度： 38 {CWebsocketDlg.cpp(321)}
+2023-05-25 19:27:46 {"interfaceId":"100002","command":"1"} {CWebsocketDlg.cpp(324)}
+2023-05-25 19:27:46 websocket-Client 入参数据:打印完成*********** {CWebsocketDlg.cpp(325)}
+2023-05-25 19:27:46 return CG:  {CWebsocketDlg.cpp(119)}
+2023-05-25 19:27:59 close~1 {CWebsocketDlg.cpp(273)}
+2023-05-25 19:28:00 close~2 {CWebsocketDlg.cpp(276)}
+2023-05-25 19:28:00 client ID : [c=0,  hdl:58695240  ]close {CWebsocketDlg.cpp(280)}
+2023-05-25 19:28:00 close  0  hdl:58695240 {CWebsocketDlg.cpp(95)}
+2023-05-25 19:28:08 cert~~end {CWebsocketDlg.cpp(914)}
+2023-05-25 19:28:09 pMyWebsocketDlg - end {CWebsocket.cpp(145)}
